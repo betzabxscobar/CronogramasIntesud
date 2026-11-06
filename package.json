@@ -1,0 +1,30 @@
+{
+  "name": "crono-intesud",
+  "version": "0.1.0",
+  "private": true,
+  "packageManager": "pnpm@11.9.0",
+  "engines": {
+    "node": ">=24.0.0",
+    "pnpm": ">=11.9.0"
+  },
+  "scripts": {
+    "start": "pnpm dev",
+    "dev": "pnpm --parallel --filter @crono/web --filter @crono/api dev",
+    "dev:web": "pnpm --filter @crono/web dev",
+    "dev:api": "pnpm --filter @crono/api dev",
+    "build": "pnpm -r build",
+    "typecheck": "pnpm -r typecheck",
+    "test": "pnpm -r test",
+    "lint": "pnpm -r lint",
+    "db:generate": "pnpm --filter @crono/api prisma:generate",
+    "db:migrate": "pnpm --filter @crono/api prisma:migrate",
+    "db:seed": "pnpm --filter @crono/api prisma:seed",
+    "db:import-ds": "pnpm --filter @crono/api prisma:import-ds",
+    "admin:create": "pnpm --filter @crono/api admin:create",
+    "db:studio": "pnpm --filter @crono/api prisma:studio"
+  },
+  "devDependencies": {
+    "prettier": "^3.6.2",
+    "typescript": "^5.9.2"
+  }
+}

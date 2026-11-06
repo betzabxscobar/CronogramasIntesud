@@ -1,0 +1,658 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@600;700;800&display=swap");
+
+:root {
+  font-family: "DM Sans", sans-serif;
+  color: #101a3b;
+  background: #f4f5fa;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+}
+
+* { box-sizing: border-box; }
+body { margin: 0; min-width: 320px; min-height: 100vh; }
+button, input { font: inherit; }
+button { cursor: pointer; }
+
+.access-page {
+  position: relative;
+  min-height: 100vh;
+  min-height: 100dvh;
+  padding: clamp(14px, 2.6vh, 28px) clamp(24px, 3.2vw, 52px) clamp(14px, 2.4vh, 26px);
+  display: flex;
+  flex-direction: column;
+  background:
+    radial-gradient(circle at 74% 48%, rgba(7, 133, 130, .2), transparent 30rem),
+    radial-gradient(circle at 12% 65%, rgba(7, 133, 130, .09), transparent 24rem),
+    linear-gradient(135deg, #f8fbfa 0%, #eef6f5 52%, #f7fbfa 100%);
+}
+
+.topbar {
+  position: relative;
+  z-index: 10;
+  min-height: clamp(72px, 9.2vh, 94px);
+  padding: 10px 28px;
+  border: 1px solid rgba(255,255,255,.8);
+  border-radius: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  background: rgba(255,255,255,.72);
+  box-shadow: 0 16px 45px rgba(36, 45, 83, .09);
+  backdrop-filter: blur(20px);
+}
+
+.institution-brand { width: min(320px, 40vw); }
+.institution-brand img { display: block; width: 100%; height: auto; }
+
+.topbar-actions {
+  display: flex;
+  align-items: center;
+  gap: clamp(18px, 3vw, 40px);
+}
+
+.topbar-meta {
+  display: flex;
+  align-items: center;
+  gap: clamp(24px, 5vw, 68px);
+  color: #45506c;
+  font-size: .9rem;
+}
+
+.topbar-meta span { display: flex; align-items: center; gap: 10px; white-space: nowrap; }
+.topbar-meta b { color: #078582; font-size: 1.35rem; }
+
+.theme-toggle {
+  width: 44px;
+  height: 44px;
+  flex: 0 0 auto;
+  border: 1px solid #cbd3dc;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  color: #078582;
+  background: rgba(255,255,255,.78);
+  font-size: 1.25rem;
+  transition: transform 160ms, background 160ms, border-color 160ms;
+}
+
+.theme-toggle:hover {
+  border-color: #078582;
+  background: #fff;
+  transform: translateY(-1px);
+}
+
+.main-content {
+  width: min(1450px, 100%);
+  min-height: 0;
+  flex: 1;
+  margin: auto;
+  padding: clamp(16px, 3.5vh, 38px) 10px clamp(10px, 2vh, 20px);
+  display: grid;
+  grid-template-columns: minmax(320px, .8fr) minmax(420px, 1.2fr);
+  align-items: center;
+  gap: clamp(28px, 4vw, 68px);
+}
+
+.access-content { position: relative; z-index: 5; min-width: 0; container-type: inline-size; }
+.access-state { max-width: 590px; }
+
+.product-name {
+  margin-bottom: clamp(18px, 3vh, 30px);
+  display: flex;
+  align-items: baseline;
+  color: #0a1336;
+  font-family: "Manrope", sans-serif;
+  font-size: clamp(2.25rem, 4vw, 4.35rem);
+  font-weight: 800;
+  line-height: .95;
+  letter-spacing: -.065em;
+}
+
+.product-name b {
+  padding: 0 .07em;
+  color: #9aa3b8;
+  font-weight: 600;
+}
+
+.product-name strong {
+  color: #078582;
+  font-weight: 800;
+}
+
+.section-kicker {
+  margin: 0 0 16px;
+  color: #078582;
+  font-size: .72rem;
+  font-weight: 700;
+  letter-spacing: .28em;
+  text-transform: uppercase;
+}
+
+.kicker-rule {
+  width: 48px;
+  height: 4px;
+  margin-bottom: 28px;
+  border-radius: 4px;
+  display: block;
+  background: #078582;
+}
+
+h1, p { margin-top: 0; }
+h1 { font-family: "Manrope", sans-serif; }
+
+.access-state h1 {
+  margin-bottom: clamp(18px, 3vh, 28px);
+  color: #0a1336;
+  font-size: clamp(3rem, 4.7vw, 5.2rem);
+  line-height: 1.02;
+  letter-spacing: -.065em;
+}
+
+.subtitle {
+  margin-bottom: 32px;
+  color: #61708a;
+  font-size: 1.08rem;
+  line-height: 1.55;
+}
+
+.access-form {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 180px;
+  gap: 10px;
+}
+
+/* Cuando la columna se estrecha (portátil pequeño, tablet en horizontal) el
+   campo y el botón se apilan en vez de comprimir el input. Se Decide por el
+   ancho real del contenedor, no por el de la ventana. */
+@container (max-width: 430px) {
+  .access-form { grid-template-columns: 1fr; }
+  .access-form .primary-button { min-height: 52px; }
+}
+
+.field-group {
+  min-height: 70px;
+  padding: 9px 16px;
+  border: 1px solid #bfc7d8;
+  border-radius: 9px;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  background: rgba(255,255,255,.7);
+  transition: border-color 160ms, box-shadow 160ms, background 160ms;
+}
+
+.field-group:focus-within {
+  border-color: #078582;
+  background: #fff;
+  box-shadow: 0 0 0 4px rgba(7,133,130,.1);
+}
+
+.id-card-icon {
+  color: #078582;
+  font-size: 1.9rem;
+}
+
+.field-group > div { min-width: 0; flex: 1; }
+.field-group label,
+.field-caption {
+  margin-bottom: 3px;
+  display: block;
+  color: #293553;
+  font-size: .76rem;
+  font-weight: 700;
+}
+
+.field-group input {
+  width: 100%;
+  min-width: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  color: #101a3b;
+  background: transparent;
+  font-size: 1rem;
+}
+
+.field-group input::placeholder { color: #8a94a8; }
+.code-field { display: block; }
+.code-field input {
+  font-size: 1.35rem;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: .18em;
+  text-align: center;
+}
+
+.verify-page .main-content {
+  width: min(680px, 100%);
+  padding: clamp(14px, 2.5vh, 26px) 10px;
+  display: block;
+}
+
+.verify-page .access-content {
+  width: 100%;
+}
+
+.verify-page .product-name {
+  margin-bottom: 16px;
+  justify-content: center;
+  font-size: clamp(2rem, 3vw, 3rem);
+}
+
+.verify-state {
+  max-width: 620px;
+  margin: 0 auto;
+  padding: clamp(22px, 3.5vh, 34px);
+  border: 1px solid rgba(255,255,255,.86);
+  border-radius: 18px;
+  background: rgba(255,255,255,.76);
+  box-shadow: 0 22px 55px rgba(20, 70, 68, .12);
+  backdrop-filter: blur(18px);
+}
+
+.verify-state .back-button {
+  margin-bottom: 14px;
+}
+
+.verify-state .section-kicker {
+  margin-bottom: 8px;
+}
+
+.verify-state .kicker-rule {
+  width: 38px;
+  height: 3px;
+  margin-bottom: 16px;
+}
+
+.verify-state h1 {
+  margin-bottom: 10px;
+  font-size: clamp(2.25rem, 4vw, 3.4rem);
+  letter-spacing: -.045em;
+}
+
+.verify-state .subtitle {
+  margin-bottom: 20px;
+  font-size: .98rem;
+}
+
+.verify-page .visual-stage {
+  display: none;
+}
+
+.verify-page .page-footer {
+  padding-top: 4px;
+}
+
+.primary-button {
+  min-height: 70px;
+  padding: 0 22px;
+  border: 0;
+  border-radius: 9px;
+  color: #fff;
+  background: linear-gradient(135deg, #078582, #006f6c);
+  box-shadow: 0 14px 28px rgba(7,133,130,.2);
+  font-weight: 700;
+  transition: transform 160ms, box-shadow 160ms, opacity 160ms;
+}
+
+.primary-button span { margin-left: 14px; font-size: 1.3rem; }
+.primary-button:hover:not(:disabled) { transform: translateY(-2px); box-shadow: 0 18px 32px rgba(7,133,130,.28); }
+.primary-button:disabled { cursor: not-allowed; opacity: .5; box-shadow: none; }
+.standalone-button { min-width: 210px; }
+
+.back-button {
+  margin: 0 0 20px;
+  padding: 0;
+  border: 0;
+  color: #54617c;
+  background: transparent;
+  font-weight: 600;
+}
+
+.form-message,
+.form-error { margin: 12px 0 0; font-size: .82rem; line-height: 1.5; }
+.form-message { color: #277a61; }
+.form-error { color: #a23b2a; }
+
+.access-icon {
+  width: 58px;
+  height: 58px;
+  margin-bottom: 24px;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  color: #fff;
+  background: #078582;
+  font-size: 1.4rem;
+}
+
+.visual-stage {
+  position: relative;
+  min-width: 0;
+  height: min(58vh, 620px);
+  min-height: 390px;
+  perspective: 1200px;
+  /* Margen de sangrado: las tarjetas pueden sobresalir unos píxeles del marco
+     sin que eso genere scroll en la página ni se vean recortadas en seco. */
+  overflow: clip;
+  overflow-clip-margin: 46px;
+}
+
+.visual-stage::before {
+  content: "";
+  position: absolute;
+  width: min(430px, 78%);
+  aspect-ratio: 1;
+  left: 12%;
+  top: 4%;
+  border: 1px solid rgba(255,255,255,.7);
+  border-radius: 50%;
+}
+
+.calendar-card {
+  position: absolute;
+  padding: 25px;
+  border: 1px solid rgba(255,255,255,.9);
+  border-radius: 24px;
+  background: rgba(255,255,255,.8);
+  box-shadow: 0 35px 74px rgba(7, 94, 91, .17);
+  backdrop-filter: blur(14px);
+  will-change: transform;
+}
+
+.calendar-front {
+  z-index: 3;
+  width: min(86%, 620px);
+  height: min(44vh, 430px);
+  left: 4%;
+  top: 34px;
+  animation: card-drift 14s cubic-bezier(.45, 0, .55, 1) infinite;
+}
+
+.calendar-back {
+  z-index: 2;
+  width: 54%;
+  height: min(34vh, 320px);
+  right: 3%;
+  bottom: 26px;
+  opacity: .66;
+  animation: card-drift-back 18s cubic-bezier(.45, 0, .55, 1) infinite;
+}
+
+/* Las tarjetas flotan en su sitio: suben y bajan unos pocos píxeles alrededor
+   de su posición de reposo, sin llegar nunca a los extremos. El recorrido es
+   simétrico, así que el tope y el piso son iguales y el gesto se lee pausado.
+   La capa de atrás se mueve menos que la de adelante, lo que da profundidad. */
+@keyframes card-drift {
+  0%, 100% { transform: translateY(-7px) rotate(4deg) scale(1); }
+  50%      { transform: translateY(7px) rotate(3.1deg) scale(1.003); }
+}
+
+@keyframes card-drift-back {
+  0%, 100% { transform: translateY(-4px) rotate(7deg) scale(1); }
+  50%      { transform: translateY(4px) rotate(6.4deg) scale(1.002); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .calendar-front,
+  .calendar-back {
+    animation: none;
+  }
+}
+
+.calendar-days {
+  height: 40px;
+  padding-left: 60px;
+  border-bottom: 1px solid #dce1ec;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  align-items: center;
+  color: #34405e;
+  font-size: .68rem;
+  font-weight: 700;
+  text-align: center;
+}
+
+.calendar-back .calendar-days {
+  padding-left: 0;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.calendar-body { height: calc(100% - 40px); display: grid; grid-template-columns: 60px 1fr; }
+.calendar-hours {
+  padding: 10px 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  color: #6e7890;
+  font-size: .7rem;
+}
+
+.calendar-grid {
+  position: relative;
+  height: 100%;
+  background:
+    linear-gradient(#e1e5ee 1px, transparent 1px),
+    linear-gradient(90deg, #e1e5ee 1px, transparent 1px);
+  background-size: calc(100% / 6) calc(100% / 6);
+}
+
+.calendar-back .calendar-grid {
+  height: calc(100% - 40px);
+  background-size: 25% 25%;
+}
+
+.event {
+  position: absolute;
+  width: 14%;
+  height: 14%;
+  border-radius: 7px;
+}
+
+.event-purple { left: 19%; top: 18%; background: #c8bdf4; }
+.event-blue { left: 36%; top: 27%; background: #acd1ed; }
+.event-coral { left: 54%; top: 45%; background: #f4aaa4; }
+.event-teal { left: 17%; top: 64%; background: #7ed4d4; }
+.event-blue-two { left: 72%; top: 67%; background: #b8d6f3; }
+.calendar-back .event-purple { left: 4%; top: 23%; }
+.calendar-back .event-coral { left: 35%; top: 41%; }
+.calendar-back .event-teal { left: 10%; top: 69%; }
+
+.page-footer {
+  position: relative;
+  z-index: 6;
+  padding: 0 12px;
+  display: flex;
+  justify-content: space-between;
+  color: #60708c;
+  font-size: .78rem;
+}
+
+.page-footer span { display: flex; align-items: center; gap: 8px; }
+.page-footer b { color: #078582; font-size: 1.2rem; }
+
+.eye-icon {
+  position: relative;
+  width: 20px;
+  height: 13px;
+  flex: 0 0 auto;
+  border: 1.5px solid #078582;
+  border-radius: 50% / 60%;
+}
+
+.eye-icon::after {
+  content: "";
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  left: 50%;
+  top: 50%;
+  border-radius: 50%;
+  background: #078582;
+  transform: translate(-50%, -50%);
+}
+
+.access-page.dark {
+  color: #e8f1f0;
+  background:
+    radial-gradient(circle at 74% 48%, rgba(7, 133, 130, .24), transparent 32rem),
+    radial-gradient(circle at 12% 65%, rgba(7, 133, 130, .1), transparent 24rem),
+    linear-gradient(135deg, #0d171b 0%, #101e21 52%, #0b1518 100%);
+}
+
+.dark .topbar {
+  border-color: rgba(255,255,255,.08);
+  background: rgba(16, 29, 32, .9);
+  box-shadow: 0 16px 45px rgba(0, 0, 0, .25);
+}
+
+/* El logo oscuro ya tiene el texto en blanco, así que no necesita el chip
+   blanco que antes lo enmarcaba: se apoya directo sobre la barra. */
+.dark .institution-brand {
+  padding: 0;
+  border-radius: 0;
+  background: none;
+}
+
+.dark .topbar-meta,
+.dark .page-footer,
+.dark .subtitle {
+  color: #aebebb;
+}
+
+.dark .theme-toggle {
+  border-color: #34504d;
+  color: #efc66d;
+  background: #182a2d;
+}
+
+.dark .theme-toggle:hover {
+  border-color: #efc66d;
+  background: #203538;
+}
+
+.dark .product-name,
+.dark .access-state h1 {
+  color: #f5f8f7;
+}
+
+.dark .product-name b {
+  color: #647976;
+}
+
+.dark .field-group {
+  border-color: #3e5554;
+  background: rgba(18, 35, 38, .82);
+}
+
+.dark .field-group:focus-within {
+  border-color: #18aaa5;
+  background: #14282b;
+  box-shadow: 0 0 0 4px rgba(24,170,165,.12);
+}
+
+.dark .field-group label,
+.dark .field-caption,
+.dark .field-group input {
+  color: #edf5f4;
+}
+
+.dark .field-group input::placeholder {
+  color: #809390;
+}
+
+.dark .calendar-card {
+  border-color: rgba(255,255,255,.09);
+  background: rgba(22, 38, 42, .92);
+  box-shadow: 0 35px 74px rgba(0, 0, 0, .3);
+}
+
+.dark .calendar-days {
+  border-color: #3b4e50;
+  color: #d5e0df;
+}
+
+.dark .calendar-hours {
+  color: #91a4a2;
+}
+
+.dark .calendar-grid {
+  background:
+    linear-gradient(#33484a 1px, transparent 1px),
+    linear-gradient(90deg, #33484a 1px, transparent 1px);
+  background-size: calc(100% / 6) calc(100% / 6);
+}
+
+.dark .calendar-back .calendar-grid {
+  background-size: 25% 25%;
+}
+
+.dark .visual-stage::before {
+  border-color: rgba(30, 172, 167, .2);
+}
+
+.dark .back-button {
+  color: #aebebb;
+}
+
+.dark.verify-page .verify-state {
+  border-color: rgba(255,255,255,.09);
+  background: rgba(16, 31, 34, .9);
+  box-shadow: 0 22px 55px rgba(0, 0, 0, .28);
+}
+
+@media (max-width: 1000px) {
+  .main-content {
+    grid-template-columns: minmax(0, 1fr);
+    max-width: 640px;
+    gap: 0;
+  }
+
+  .visual-stage { display: none; }
+  .access-content { text-align: center; }
+  .access-state { margin: 0 auto; }
+  .access-form { justify-content: center; }
+  .product-name { justify-content: center; }
+  .page-footer { justify-content: center; gap: 24px; flex-wrap: wrap; }
+}
+
+@media (max-width: 760px) {
+  .access-page { padding: 16px; }
+  .topbar { min-height: 72px; padding: 12px 18px; border-radius: 16px; }
+  .institution-brand { width: min(250px, 60vw); }
+  .topbar-meta { display: none; }
+  .main-content { padding: 36px 4px 24px; }
+  .product-name { font-size: clamp(2rem, 9vw, 3rem); }
+  .access-state h1 { font-size: clamp(2.6rem, 13vw, 4rem); }
+  .access-form { grid-template-columns: 1fr; }
+  .page-footer {
+    padding: 18px 8px 4px;
+    align-items: center;
+    flex-direction: column;
+    gap: 8px;
+    text-align: center;
+  }
+  .verify-page .main-content { padding: 24px 4px 20px; }
+  .verify-page .product-name { margin-bottom: 14px; }
+  .verify-state { padding: 22px 18px; }
+  .verify-state .access-form { grid-template-columns: 1fr; }
+}
+
+/* Pantallas bajas (portátiles con barra del navegador): se compacta el ritmo
+   vertical para que el formulario entre sin obligar a hacer scroll. */
+@media (max-height: 780px) and (min-width: 1001px) {
+  .access-page { padding-top: 14px; padding-bottom: 14px; }
+  .topbar { min-height: 66px; }
+  .main-content { padding-top: 20px; padding-bottom: 12px; }
+  .product-name { margin-bottom: 16px; font-size: clamp(2rem, 3.2vw, 3rem); }
+  .section-kicker { margin-bottom: 10px; }
+  .kicker-rule { margin-bottom: 18px; }
+  .access-state h1 { margin-bottom: 16px; font-size: clamp(2.2rem, 3.4vw, 3.4rem); }
+  .subtitle { margin-bottom: 22px; }
+  .visual-stage { height: min(52vh, 520px); min-height: 300px; }
+}
+
+@media (max-width: 420px) {
+  .institution-brand { width: min(230px, 60vw); }
+}

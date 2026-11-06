@@ -1,0 +1,2 @@
+ALTER TABLE "professors"
+ADD COLUMN "schedule_color" VARCHAR(7) NOT NULL DEFAULT '#A9CBE4';
