@@ -1,0 +1,48 @@
+spring:
+  application:
+    name: crono-api
+  config:
+    # Reutiliza el mismo .env de la raíz del monorepo que usa la API de NestJS.
+    import:
+      - "optional:file:../../.env[.properties]"
+      - "optional:file:.env[.properties]"
+  jpa:
+    open-in-view: false
+    hibernate:
+      # Solo comprueba que las entidades coinciden con las tablas; nunca las modifica.
+      ddl-auto: validate
+    properties:
+      hibernate:
+        jdbc:
+          time_zone: UTC
+        type:
+          # Prisma crea las fechas como TIMESTAMP(3) sin zona horaria, en UTC.
+          preferred_instant_jdbc_type: TIMESTAMP
+  flyway:
+    # Desactivado mientras Prisma siga siendo el dueño del esquema: si Flyway crea
+    # su tabla de historial, "prisma migrate dev" detecta una diferencia y pide
+    # reiniciar la base. Activar (FLYWAY_ENABLED=true) al retirar NestJS.
+    enabled: ${FLYWAY_ENABLED:false}
+    baseline-on-migrate: true
+    baseline-version: "1"
+
+server:
+  # Puerto distinto al de NestJS (3000) para poder ejecutar ambos a la vez.
+  port: ${API_SPRING_PORT:8080}
+  servlet:
+    context-path: /api/v1
+
+crono:
+  environment: ${NODE_ENV:development}
+  web-origin: ${WEB_ORIGIN:http://localhost:5173}
+  database-url: ${DATABASE_URL}
+  session-secret: ${SESSION_SECRET}
+  access-token-ttl-seconds: ${ACCESS_TOKEN_TTL_SECONDS:900}
+  session-hours: ${SESSION_HOURS:8}
+  smtp:
+    host: ${SMTP_HOST:}
+    port: ${SMTP_PORT:587}
+    secure: ${SMTP_SECURE:false}
+    user: ${SMTP_USER:}
+    password: ${SMTP_PASSWORD:}
+    from: ${SMTP_FROM:CRONO-INTESUD <no-reply@intesud.edu.ec>}
