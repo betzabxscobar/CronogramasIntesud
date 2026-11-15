@@ -62,7 +62,17 @@ Las sesiones son intercambiables entre ambas API porque comparten `SESSION_SECRE
 | `auth` | Login por código, JWT, sesión | `src/auth` |
 | `mail` | Envío SMTP | `src/mail` |
 | `config` | Seguridad, CORS, límite de peticiones, conexión | `main.ts`, `app.module.ts`, guards |
-| `common` | Formato de errores, `/health` | filtros de excepción de Nest |
+| `common` | Formato de errores, `/health`, auditoría, utilidades (`Db`, `Texts`, `ApiDates`) | filtros de excepción de Nest, `AuditService` |
+| `careers` | Carreras | `src/careers` |
+| `coordinators` | Coordinadores y sus carreras | `src/coordinators` |
+| `laboratories` | Aulas y laboratorios | `src/laboratories` |
+| `academicstructure` | Niveles y materias | `src/academic-structure` |
+| `academicperiods` | Periodos y cursos | `src/academic-periods` |
+| `professors` | Profesores y directorio público | `src/professors` |
+| `schedules` | Horarios, clases, módulos nocturnos y publicación | `src/schedules` |
+| `exports` | Libro de horarios en Excel | `src/exports` |
+| `imports` | Importación del libro de horarios (vista previa y confirmación) | `src/imports` |
+| `excel` | Lectura y escritura de `.xlsx` con Apache POI | `exceljs` |
 
 ### Cómo migrar un módulo
 
@@ -74,7 +84,7 @@ Las sesiones son intercambiables entre ambas API porque comparten `SESSION_SECRE
 | NestJS | Spring |
 |---|---|
 | `@Controller("careers")` | `@RestController @RequestMapping("/careers")` |
-| `@Roles(UserRole.ADMIN)` | `@PreAuthorize("hasRole('ADMIN')")` |
+| `@Roles(UserRole.ADMIN)` | `@Roles(UserRole.ADMIN)` (anotación propia, en `auth`) |
 | `@Public()` | añadir la ruta a `PUBLIC_ROUTES` en `SecurityConfig` |
 | `@CurrentUser() actor` | `@AuthenticationPrincipal AuthenticatedUser actor` |
 | `@Body() input: Dto` | `@Valid @RequestBody Dto input` |
@@ -94,6 +104,5 @@ Las sesiones son intercambiables entre ambas API porque comparten `SESSION_SECRE
 
 ## Pendiente
 
-Módulos por migrar: `careers`, `coordinators`, `laboratories`, `academic-structure`,
-`academic-periods`, `professors`, `schedules`, `exports`, `imports`. También los scripts
-`seed.ts`, `create-admin.ts` e `import-ds-excel-catalog.ts`, y la documentación Swagger.
+Todos los módulos de la API están migrados. Quedan los scripts `seed.ts`, `create-admin.ts` e
+`import-ds-excel-catalog.ts`, y la documentación Swagger.
