@@ -25,10 +25,10 @@ public class ApiExceptionHandler extends ResponseEntityExceptionHandler {
   @ExceptionHandler(ApiException.class)
   public ResponseEntity<ApiError> handleApiException(ApiException exception) {
     return ResponseEntity.status(exception.getStatus())
-        .body(ApiError.of(exception.getStatus(), exception.getMessage()));
+        .body(ApiError.of(exception.getStatus(), exception.getBody()));
   }
 
-  /** Lanzada por @PreAuthorize cuando el rol del usuario no alcanza. */
+  /** Acceso denegado por Spring Security dentro de un controlador. */
   @ExceptionHandler(AccessDeniedException.class)
   public ResponseEntity<ApiError> handleAccessDenied(AccessDeniedException exception) {
     return ResponseEntity.status(HttpStatus.FORBIDDEN)

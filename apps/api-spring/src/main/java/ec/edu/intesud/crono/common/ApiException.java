@@ -1,15 +1,30 @@
 package ec.edu.intesud.crono.common;
 
+import java.util.List;
 import org.springframework.http.HttpStatus;
 
 /** Error de negocio que se devuelve al cliente con un código HTTP y un mensaje. */
 public class ApiException extends RuntimeException {
 
   private final HttpStatus status;
+  private final List<String> messages;
 
   public ApiException(HttpStatus status, String message) {
     super(message);
     this.status = status;
+    this.messages = null;
+  }
+
+  /** Error con varios mensajes: "message" se devuelve como lista. */
+  public ApiException(HttpStatus status, List<String> messages) {
+    super(String.join("; ", messages));
+    this.status = status;
+    this.messages = List.copyOf(messages);
+  }
+
+  /** El texto del error, o la lista de textos si hay varios. */
+  public Object getBody() {
+    return messages == null ? getMessage() : messages;
   }
 
   public HttpStatus getStatus() {

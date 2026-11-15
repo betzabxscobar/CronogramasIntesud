@@ -13,7 +13,6 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.HttpStatus;
 import org.springframework.security.config.Customizer;
-import org.springframework.security.config.annotation.method.configuration.EnableMethodSecurity;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 import org.springframework.security.config.http.SessionCreationPolicy;
 import org.springframework.security.oauth2.jose.jws.MacAlgorithm;
@@ -32,12 +31,11 @@ import org.springframework.web.cors.UrlBasedCorsConfigurationSource;
  *
  * <ul>
  *   <li>Todo requiere un token de acceso, salvo las rutas públicas (antes {@code @Public()}).
- *   <li>Los roles se exigen en cada controlador con {@code @PreAuthorize("hasRole('ADMIN')")}
- *       (antes {@code @Roles(UserRole.ADMIN)}).
+ *   <li>Los roles se exigen en cada controlador con {@code @Roles(UserRole.ADMIN)}, igual que
+ *       antes; los comprueba {@code RolesInterceptor}.
  * </ul>
  */
 @Configuration
-@EnableMethodSecurity
 public class SecurityConfig {
 
   /** Rutas que no exigen token. Son relativas al context-path /api/v1. */
