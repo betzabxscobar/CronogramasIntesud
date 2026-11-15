@@ -246,7 +246,9 @@ class ApiIntegrationTest {
     mvc.perform(get("/auth/me").header("Authorization", "Bearer " + accessToken))
         .andExpect(status().isOk())
         .andExpect(jsonPath("$.nationalId").value("1712345678"))
-        .andExpect(jsonPath("$.firstNames").value("Ana"));
+        .andExpect(jsonPath("$.firstNames").value("Ana"))
+        // Exactamente los campos que devolvía NestJS, sin extras.
+        .andExpect(jsonPath("$.length()").value(7));
 
     // 5. Renovar rota el token de refresco: el anterior deja de servir.
     MvcResult refreshed =

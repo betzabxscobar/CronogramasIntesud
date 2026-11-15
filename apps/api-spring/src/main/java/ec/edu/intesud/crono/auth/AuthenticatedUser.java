@@ -1,5 +1,6 @@
 package ec.edu.intesud.crono.auth;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import ec.edu.intesud.crono.domain.UserRole;
 import java.util.List;
 import java.util.UUID;
@@ -17,6 +18,7 @@ public record AuthenticatedUser(
     UserRole role,
     List<UUID> careerIds) {
 
+  @JsonIgnore // ayuda interna; no forma parte del JSON que recibe el frontend
   public boolean isAdmin() {
     return role == UserRole.ADMIN;
   }
