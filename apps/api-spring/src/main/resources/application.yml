@@ -25,6 +25,11 @@ spring:
     enabled: ${FLYWAY_ENABLED:false}
     baseline-on-migrate: true
     baseline-version: "1"
+  servlet:
+    multipart:
+      # Libro de Excel de las importaciones: hasta 15 MB, como en la API anterior.
+      max-file-size: 15MB
+      max-request-size: 16MB
 
 server:
   # Puerto distinto al de NestJS (3000) para poder ejecutar ambos a la vez.
