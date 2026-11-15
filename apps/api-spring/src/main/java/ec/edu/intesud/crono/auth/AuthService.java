@@ -23,6 +23,8 @@ import org.springframework.security.oauth2.jwt.JwsHeader;
 import org.springframework.security.oauth2.jwt.JwtClaimsSet;
 import org.springframework.security.oauth2.jwt.JwtEncoder;
 import org.springframework.security.oauth2.jwt.JwtEncoderParameters;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.PlatformTransactionManager;
 import org.springframework.transaction.support.TransactionTemplate;
@@ -54,6 +56,8 @@ public class AuthService {
   private final JwtEncoder jwtEncoder;
   private final CronoProperties properties;
   private final TransactionTemplate transaction;
+  private static final Logger log = LoggerFactory.getLogger(AuthService.class);
+
   private final SecureRandom random = new SecureRandom();
 
   public AuthService(
@@ -108,7 +112,14 @@ public class AuthService {
     loginCode = loginCodes.save(loginCode);
 
     boolean sent = mail.sendLoginCode(user.getEmail(), user.getFirstNames(), code);
-    if (!sent) {
+    if (!sent && !mail.isConfigured() && !properties.production()) {
+      // Solo en desarrollo y sin SMTP: el código se muestra en la consola para poder
+      // probar el inicio de sesión. En producción nunca se registra.
+      log.warn(
+          "SMTP no configurado (desarrollo). Código de acceso para la cédula {}: {}",
+          user.getNationalId(),
+          code);
+    } else if (!sent) {
       loginCodes.consume(loginCode.getId(), Instant.now());
     }
     audit(user, sent ? "AUTH_CODE_SENT" : "AUTH_CODE_DELIVERY_FAILED", metadata);

@@ -27,6 +27,11 @@ public class MailService {
     this.sender = smtp.configured() ? createSender(smtp) : null;
   }
 
+  /** Indica si hay un servidor SMTP configurado en el .env. */
+  public boolean isConfigured() {
+    return sender != null;
+  }
+
   public boolean sendLoginCode(String email, String displayName, String code) {
     if (sender == null) {
       log.error("El servicio SMTP no está configurado");
