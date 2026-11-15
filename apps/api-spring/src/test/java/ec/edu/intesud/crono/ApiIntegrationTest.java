@@ -68,73 +68,15 @@ import org.springframework.web.context.WebApplicationContext;
  * </ul>
  */
 @SpringBootTest
-class ApiIntegrationTest {
+class ApiIntegrationTest extends IntegrationTestBase {
 
-  private static final String SECRET = "test-secret-with-at-least-32-characters!!";
+  @org.springframework.beans.factory.annotation.Autowired JwtDecoder jwtDecoder;
 
   /** Token firmado con Node (HS256, mismo formato que @nestjs/jwt); vence en el año 2100. */
   private static final String NODE_TOKEN =
       "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9."
           + "eyJzdWIiOiIxMTExMTExMS0yMjIyLTQzMzMtODQ0NC01NTU1NTU1NTU1NTUiLCJ0eXBlIjoiYWNjZXNzIiwiaWF0IjoxNzAwMDAwMDAwLCJleHAiOjQxMDI0NDQ4MDB9."
           + "J_4SuRnK0rD19dG3SEehKvJt9PTu24bhTkqOY2OD6vQ";
-
-  private static final EmbeddedPostgres POSTGRES = startPostgres();
-
-  private static EmbeddedPostgres startPostgres() {
-    try {
-      return EmbeddedPostgres.builder().start();
-    } catch (IOException exception) {
-      throw new UncheckedIOException(exception);
-    }
-  }
-
-  @DynamicPropertySource
-  static void properties(DynamicPropertyRegistry registry) {
-    registry.add(
-        "crono.database-url",
-        () -> "postgresql://postgres@localhost:" + POSTGRES.getPort() + "/postgres?schema=public");
-    registry.add("crono.session-secret", () -> SECRET);
-    registry.add("spring.flyway.enabled", () -> "true");
-  }
-
-  /** Sustituye el envío de correo: guarda el último código en lugar de enviarlo. */
-  static class CapturingMailService extends MailService {
-    volatile String lastCode;
-
-    CapturingMailService(CronoProperties properties) {
-      super(properties);
-    }
-
-    @Override
-    public boolean sendLoginCode(String email, String displayName, String code) {
-      lastCode = code;
-      return true;
-    }
-  }
-
-  @TestConfiguration
-  static class MailTestConfiguration {
-    @Bean
-    @Primary
-    CapturingMailService capturingMailService(CronoProperties properties) {
-      return new CapturingMailService(properties);
-    }
-  }
-
-  @Autowired WebApplicationContext context;
-  @Autowired CapturingMailService mail;
-  @Autowired UserRepository users;
-  @Autowired JwtDecoder jwtDecoder;
-  @Autowired EntityManager entityManager;
-  @Autowired PlatformTransactionManager transactionManager;
-  @Autowired DataSource dataSource;
-
-  MockMvc mvc;
-
-  @BeforeEach
-  void setUp() {
-    mvc = MockMvcBuilders.webAppContextSetup(context).apply(springSecurity()).build();
-  }
 
   @Test
   void healthIsPublic() throws Exception {
@@ -405,13 +347,6 @@ class ApiIntegrationTest {
     assertThat(stored.getSpace().getType()).isEqualTo(SpaceType.LABORATORY);
   }
 
-  private <T> T inTransaction(java.util.function.Supplier<T> work) {
-    return new TransactionTemplate(transactionManager).execute(status -> work.get());
-  }
-
-  private JdbcTemplate jdbc() {
-    return new JdbcTemplate(dataSource);
-  }
 
   private static org.springframework.test.web.servlet.request.MockHttpServletRequestBuilder json(
       org.springframework.test.web.servlet.request.MockHttpServletRequestBuilder request,
@@ -423,9 +358,5 @@ class ApiIntegrationTest {
           content.append('"').append(key).append("\":\"").append(value).append('"');
         });
     return request.contentType(MediaType.APPLICATION_JSON).content(content.append('}').toString());
-  }
-
-  private static String field(MvcResult result, String name) throws Exception {
-    return com.jayway.jsonpath.JsonPath.read(result.getResponse().getContentAsString(), "$." + name);
   }
 }
