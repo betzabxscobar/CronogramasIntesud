@@ -288,8 +288,7 @@ export function SchedulesPanel({
     await loadSchedules(periodId, body.id);
   }
   async function saveBlock(values: object) {
-    if (!detail) return false;
-    setError("");
+    if (!detail) return "No hay un horario seleccionado.";
     try {
       const response = await fetch(
         editingBlock
@@ -304,14 +303,12 @@ export function SchedulesPanel({
       if (!response.ok) throw new Error(await apiError(response));
       setEditingBlock(undefined);
       await loadDetail(detail.id);
-      return true;
+      return "";
     } catch (requestError) {
-      setError(
-        requestError instanceof Error
-          ? requestError.message
-          : "No fue posible guardar el bloque.",
-      );
-      return false;
+      // El mensaje se muestra dentro del panel de la clase, no detrás de él.
+      return requestError instanceof Error
+        ? requestError.message
+        : "No fue posible guardar el bloque.";
     }
   }
   async function removeBlock(block: Block) {
@@ -873,8 +870,9 @@ function BlockEditor({
   block?: Block;
   detail: Detail;
   onClose: () => void;
-  onSave: (values: object) => Promise<boolean>;
+  onSave: (values: object) => Promise<string>;
 }) {
+  const [problems, setProblems] = useState<string[]>([]);
   const [form, setForm] = useState({
     subjectId: block?.subject.id ?? detail.catalogs.subjects[0]?.id ?? "",
     professorId: block?.professor.id ?? detail.catalogs.professors[0]?.id ?? "",
@@ -887,12 +885,23 @@ function BlockEditor({
   const [saving, setSaving] = useState(false);
   function field(name: string, value: string) {
     setForm((current) => ({ ...current, [name]: value }));
+    setProblems([]);
   }
   async function submit(event: FormEvent) {
     event.preventDefault();
     setSaving(true);
-    await onSave({ ...form, spaceId: detail.shift === "NIGHT" ? undefined : form.spaceId, moduleNumber: detail.shift === "NIGHT" ? Number(form.moduleNumber) : undefined });
+    setProblems([]);
+    const message = await onSave({ ...form, spaceId: detail.shift === "NIGHT" ? undefined : form.spaceId, moduleNumber: detail.shift === "NIGHT" ? Number(form.moduleNumber) : undefined });
+    // Si se guardó, el panel ya se cerró: no hay nada más que actualizar.
+    if (!message) return;
     setSaving(false);
+    // La API une varios choques con ". ": se muestran uno por línea.
+    setProblems(
+      message
+        .split(/\.\s+/)
+        .map((item) => item.replace(/\.$/, "").trim())
+        .filter(Boolean),
+    );
   }
   return (
     <div className="drawer-backdrop">
@@ -973,6 +982,16 @@ function BlockEditor({
               />
             </label>
           </div>
+          {problems.length > 0 && (
+            <div className="block-form-error" role="alert">
+              <strong>No se puede guardar la clase</strong>
+              <ul>
+                {problems.map((problem) => (
+                  <li key={problem}>{problem}</li>
+                ))}
+              </ul>
+            </div>
+          )}
           <footer>
             <button className="cancel-button" type="button" onClick={onClose}>
               Cancelar
