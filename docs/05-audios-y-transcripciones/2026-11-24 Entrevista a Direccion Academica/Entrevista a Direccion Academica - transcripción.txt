@@ -1,0 +1,117 @@
+Transcripción automática del audio "Entrevista a Direccion Academica - audio.mp4"
+Entrevistado: Mtr. Christian Martínez, director académico
+Herramienta: Whisper (modelo medium), ejecutado en el equipo, sin enviar el audio a internet.
+Algunas palabras pueden estar mal reconocidas; el informe de la entrevista corrige los nombres y los datos.
+
+Ya, buenos días, les quiero decirle que es una entrevista basada en una gestión de horarios y laboratorios.
+Si nos permite grabarle.
+Ok.
+Vamos a empezar con las preguntas ya.
+¿Cómo realiza actualmente su trabajo en la planificación de los horarios académicos?
+De manera manual, se hace una reunión con todos los coordinadores.
+En base a eso, se ve la disponibilidad de profesores y de estudiantes, en base a eso se plantea el número de aulas y se asigna aulas y horarios a cada uno.
+¿En qué momento interviene dirección académica en este proceso?
+En la reunión inicial y en la elaboración de los horarios que están a mi cargo, que son los de la carrera de gastronomía.
+¿Qué información recibe de los coordinadores para comenzar la revisión de los horarios?
+Los horarios terminados de ellos.
+¿Qué aspecto revisa antes de probar un horario académico?
+La disponibilidad de horas, el número de horas aprobado por el reglamento
+y el número de profesores necesarios.
+¿En qué orden se revisa y se firma el horario por nivel y el horario por docente?
+A ver, primer nivel se hace la revisión por mí, después se constata con recursos humanos
+y por último se da el paso a los coordinadores y al final firma el docente su horario aprobado.
+¿Cuánto tiempo transcurre desde que recibe los horarios de la escuela hasta que puedan ser aprobados?
+Una semana.
+¿Qué problemas de Fistión actualmente considera que deberían solucionarse con prioridad?
+La elaboración de la matriz final de horarios en la cual se consolidan todos los horarios de todos los profesores,
+tanto horarios de mañana y la noche. Ese es el que más quita tiempo.
+¿Dirección teatrónica establece fechas o plazos para la entrega de horarios?
+Sí. ¿Existe un mecanismo establecido para comunicar cambios o disposiciones a todos
+los coordinadores? Solo mediante mail o reuniones extraordinarias.
+¿Se verifica la compatibilidad de los horarios de diferentes escuelas antes de aprobarlos?
+¿Quién determina que la escuela debe modificarse su planificación cuando hay un conflicto de horarios?
+La dirección.
+Estas son preguntas sobre el sistema propuesta, ¿qué expectativas tiene del sistema?
+De que lo haga de manera automática, que haga el horario de manera automática.
+y que saque justamente, lo más importante, la matriz general de todos los profesores
+la asignación de horarios de manera automática.
+¿Qué beneficios espera obtener al centralizar la planificación de horarios de un solo sistema?
+Uno el ahorro de tiempo, la otra también sería bueno de que el programa pueda ajustarse
+a los cambios de maya que ya vienen, porque las mayas se ajustan cada 5 años y ahorita
+las carreras que van a hacer el ajuste de mallas en gastronomía y administración.
+Si ustedes empiezan haciendo con esta malla, nosotros del otro semestre no nos sabía el programa,
+así es que no podemos ajustar los nuevos parámetros de la nueva malla.
+La otra que también funcione con las mallas al mismo tiempo,
+porque después de dos semestres vamos a tener la malla nueva
+y con la malla vieja terminando, así que van a estar las dos mallas funcionando al mismo tiempo,
+El programa debe saber diferenciar los apuestas de mayas de las dos tanto de la antigua como de la nueva.
+¿Qué funciones debería tener disponibles el director académico dentro del sistema?
+Revisión de horas, asignación de profesores, asignación de cursos
+y conteo de horas automáticas por coordinadores y profesores.
+Y también potestad para hacer cambios necesarios desde la dirección
+y que esa información se reparta de manera automática a los coordinadores.
+¿Qué funciones deberían tener disponibles los coordinadores de cada carrera?
+La verificación de que esté bien hecha el horario, verificar que sea por su vez horas y nadas
+y poder poner su planta docente que necesita y sus horas necesarias y las horas que los coordinadores necesitan dar en el horario que necesitan dar.
+¿Qué información y elementos debería permitir registrar el sistema para elaborar los horarios académicos?
+¿Cómo no?
+¿Qué información y elementos debería permitir registrar el sistema para elaborar los horarios académicos?
+A ver, se debería hacer la carrera, la hora, la asignatura, el docente y el aula.
+¿Cómo deberían distribuirse las asignaturas, los docentes, los cursos y las aulas al momento de generar un horario?
+respetando el reglamento de horas de recursos humanos, si no estoy mal son 20 horas máximas para ordenadores,
+máximo 16 horas para profesores con facturación y también de lo que me acuerdo 20 horas para profesores a tiempo completo,
+pero el programa debería ser flexible porque hay veces que se impiden cumplir más de lo que dice el reglamento.
+¿Qué funcionalidades considera Inesper, Inesper, Inesper, Inesper, indispensable para gestionar los horarios académicos?
+Ya la mezclé ya.
+Control de horas, espérame un rato.
+Control de horas, número de horas y que no se repitan, que no se monten horas y que no se crucen más que andan las horas de los profesores.
+¿Qué tipos de conflictos debería identificar automáticamente el sistema?
+cruces de horas y cuando el profesor se sobrepasa de las horas establecidas.
+¿Qué reglas debería considerar el sistema para evitar cruces entre docentes cursos y
+laureaturas?
+¿Qué reglas?
+¿Qué reglas?
+Es que el trist es que cruce de cruces es la única regla que no se cruce entre asignaturas
+Hay que tener la precaución de que hay profesores que trabajan con carreras en común, como
+matemáticas, y esa es una cuenta capaz, el programa te da como cruces, pero no son cruces,
+que todos deben estar en ese curso.
+Ya.
+Ajá.
+Ya.
+¿Cómo debería actuar el sistema cuando un docente tenga dos clases asignadas en el
+mismo horario?
+Darnos la alerta.
+¿Cómo?
+Y darnos la posible solución de cuál sería el cambio de horario.
+¿Cómo deberían notificar el sistema cuando detecta el conflicto?
+No, si se puede mensaje al WhatsApp o al mail.
+¿Cómo debería administrarse la disponibilidad de aulas y los laboratorios?
+Una que no haya cruces entre usos entre carreras,
+lo otro la disponibilidad está dando en base a los horarios que por suerte son frijos,
+siempre es de 8 a 10 a 10 a 12 y si es que existe una más de 12 a 2,
+a dos, eso sería lo bueno, y el conteo de las aulas que sean las efectivas que tenemos.
+Ahorita de lo que sé tengo aulas efectivas, son 5, 6, 7, 8 aulas efectivas, y en base a
+eso se podrían ampliar dos más que tenemos, pero eso se trataría de comprobar.
+Y el programa también debería ser flexible, que si tenemos 8, poderles subir o bajar el
+número de aulas que necesitamos.
+¿Qué beneficios tendría que implementar el proceso de revisión y aprobación dentro del sistema?
+Solamente que se cumple con las horas asignadas por cada asignatura y las carreras.
+Cumplamos con ese plan nada más.
+¿Qué información y reportes consideran necesarios para supervisar la gestión académica de los estudiantes?
+nombre de los profesores, horas, aulas asignadas y asignatorias asignadas y cuántos de estos profesores están asignados a cada carrera.
+¿Cree que este sistema sería uno más de los que ya existen o sí se utilizaría?
+Sí se utilizaría y no tenemos ningún sistema para decir eso.
+¿Cómo le gustaría consultar los horarios por carrera, por curso en nivel, por docente, por aula, por laboratorio?
+Por todas.
+¿Qué reporte necesita obtener Dirección Académica?
+¿Por escuela? ¿Por horarios de nivel? ¿Pero de horario por viciente?
+¿Ocupación de aulas y lenguajos? ¿Conflictos detectados? ¿Razón y institución?
+¿Le gustaría que el sistema guarde el historial de cambios y las aprobaciones de cada horario?
+¿Le gustaría aprobar los horarios en el sistema como una firma que incluya el código QR?
+¿Cómo preferiría ingresar al sistema?
+¿Cuenta institucional de micros, o 365, número de seguridad y contraseña, un login?
+Por seguridad con el 365 que somos los coordinadores.
+¿Desde qué dispositivo usaría el sistema? ¿Computadora, celular o ambos?
+Las dos, computadora y celular.
+¿Hay algún aspecto del proceso o el sistema que consideré importante y que no hayamos tratado?
+Y esto, muchas gracias.
