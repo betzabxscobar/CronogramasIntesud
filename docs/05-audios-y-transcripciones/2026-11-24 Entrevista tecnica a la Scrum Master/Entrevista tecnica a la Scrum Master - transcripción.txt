@@ -1,0 +1,151 @@
+Transcripción automática del audio "Entrevista tecnica a la Scrum Master - audio.m4a"
+Persona entrevistada: Tnlga. Gabriela S. Morales F., jefa de proyecto y Scrum Master
+Herramienta: Whisper (modelo medium), ejecutado en el equipo, sin enviar el audio a internet.
+Algunas palabras pueden estar mal reconocidas; el informe de la entrevista técnica a la Scrum Master (informe 17) corrige los nombres y los datos.
+
+"Nueles en primera, buenas tardes, le vamos a presentar, hacerle una entrevista sobre la gestión de horarios y laboratorios, el clonente eso, ¿nos permite grabarle?"
+Sí, no hay ningún problema.
+"Considera adecuada la arquitectura separada real, como aplicación de una sola página y exprende como una happy request, o recomienda otra para el entrega."
+¿Pero qué arquitectura es?
+No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no.
+O sea, tecnologías me estás diciendo. No es arquitectura la que me estás diciendo.
+Una arquitectura separada. O sea, ahorita lo que está ahí, el sistema, con lo que tenemos, el sistema avanzado.
+Ya, por eso, hay, para eso hay un nombre de arquitectura.
+Es como, por ejemplo, si tú me dejara solamente con Rial, no tiene, no tiene backend, tú le unes con SupaBase.
+por lo tanto, su pabase como que suple el baquén, eso se conoce como arquitectura...
+¿Cómo es?
+No.
+No.
+Se me fue ahorita.
+Se llama "Ongli".
+Se me fue ahorita.
+Arquitectura...
+"Ongli".
+Se me fue ahorita el nombre del baquén.
+el nombre de la arquitectura.
+Déjenme revisarles porque les puede servir.
+Ya, profe.
+Se me fue, se me fue.
+Se llama front-end only, la arquitectura, pero esto les digo que si fuera así, en su
+En su caso no es así. Ustedes utilizan, por sí solo, ya su paba se consume la arquitectura MBC.
+Si ustedes le implementan React, ¿en qué se convertiría?
+¿Tienen módulos? ¿Serán monolitos?
+No.
+¿O tienen servicios?
+Tienen módulos.
+Entonces, ¿cuál sería?
+No, no, sí está cerrada.
+El mejor sitio en este caso es, ¿sabes cómo manejamos equipeturas con tomónole y tomó
+tomó volar?
+Y también base, base como servicio.
+Sí, es así, veamos en su defensa.
+Eso pregunto está mal hecho.
+Ya.
+Ok.
+El API mantiene la misma ruta, el API tiene la misma ruta que tenía InestJS para no cambiar React.
+¿Qué criterio debemos seguir para versionar la API cuando se cambie un contrato?
+Pues es muy bueno.
+Si pueden consumir la misma API sin necesidad de estar cambiando, en este caso lo único
+que están haciendo es que ya no están usando el Next.js como backend, sino que en este
+caso ya van a utilizar a Java como backend propio, por lo tanto pueden manejarlo todo
+en base a componentes, que al fin y al cabo se utiliza inclusive el API REST para poder
+hacer comunicación con el navegador, entonces debe de haber alguna API que sea propia para
+Spring Boot que se conecte con React, y tal vez se lo puede implementar mediante componentes.
+En el desarrollo, React se conecta mediante el proxy de Byte.
+¿Cómo espera que se despliegue React copilado dentro del hard de Spring Boot
+o separado detrás de un servidor web?
+A ver, ustedes están ya en cuarto.
+Cuarto, cuarto, cuarto.
+es que al final su sistema no se va a desplegar con el servidor local de Sprint,
+ni siquiera con la otra opción que me diste.
+Justo ahorita Jeremy está viendo que proyectos nomás están ubicados en un servidor que el Fabri tiene.
+El servidor de la unión de varios proyectos está en Google Cloud, ¿o no?
+Sí.
+Sí, ahí se les va a dar ahí para que suban.
+Por lo tanto pueden hacer ya simulaciones creándose una cuenta con Google Cloud y ver cómo despliega.
+¿Los horarios?
+Sí.
+Ah, sí, sí, vale.
+Lapis responde a los errores como JSON con el código HTTP y a la lista de mensajes.
+Ahora también habrá advertencias que bloquean, que bloquean matalla repetida,
+curso por por lo menos de cinco estudiantes laboratoria ya cómo las
+cómo las debemos cómo las devolvemos en la misma respuesta 201 con una lista de
+advertencias o un formulario estándar como problema delicts
+una lista de advertencias dijiste
+listas de advertencias como un formato estándar
+- ¿Esto hace referencia a las notificaciones? - En las notificaciones, cuando está llegando el curso.
+- O sea, cuando haya un requerimiento. - O sea, ¿la quieren hacer o bien en Jason o bien en...?
+- En el 201, como en la lista de notificaciones.
+Porque para mí, en la parte técnica, me servirían las listas de advertencias, pero para el usuario, ¿no?
+Y sobre todo, ustedes tienen que ir a jugárselas también, porque recuerden que están uniendo prácticamente dos sistemas.
+¿Qué es lo que hace el navegador? Por ejemplo, justo hice una práctica con Wikipedia que bloqueé,
+pero si ustedes le juegan la psicológica a ese navegador, sí les trae la respuesta.
+¿Cómo se lo hacen en inspeccionar? Se van a Network, se meten a Docs, dan clic derecho
+en la única opción que les dan, copian eso y les piden que les conviertan eso en Python.
+Copian ese header y eso implementan en su código y el resto ya deberían de saber porque
+es programación.
+Hoy el código se organiza por módulo, controller service y DTO en cada paquete, es la estructura
+que se espera o prefiere una arquitectura que por capas o hexagonal?
+Por capas o hexagonal, puede ser cualquiera de las dos, pero creo que la más fácil les
+va a resultar ustedes la hexagonal porque son ya dos sistemas.
+El ingreso es con cédula y con código al correo. En las entrevistas se pidió Microsoft
+365, cuenta institucional y cédula con contraseña. ¿Cuál se mantiene para integrar o debe convertirlo
+en Microsoft y den más el código al correo?
+y se fregaron porque son cuentas institucionales, no siempre es, a veces, como que generan bloqueos
+en la generación de códigos, pero ¿pueden intentar?
+Sí, a mí también sería lo que nos explicó, ya que el ingenio Fabri sería como superadmin,
+pues se las generaría a tal persona que en ese momento esté en ese departamento, ¿verdad?
+Igual ya con su correo del departamento como tal, no directamente la persona.
+Lo que quieren que ustedes hacen en ese proyecto es ingresar la cédula, en ese momento, por
+medio de SMTP, se genera el envío de un correo con un código para que se pueda ingresar,
+en este caso yo solicitaron que sea claro a la institucional porque es donde expande
+el trabajo, no hay ningún problema, ahora lo que ustedes tendrían que hacer es evaluar
+qué SNTP si envía el correo sin que rebote porque hay algunos correos que no sé por qué, eso sí
+nunca me pude averiguar que ya detecta un dominio diferente y una gota no envía y hay a veces que ustedes
+tienen que comprar esa app y entonces tienen que buscar alguna solución por ejemplo google les da
+la parte gratuita pero creo que ustedes pueden enviar cada tres minutos, cada tres segundos
+¿Qué pasa si en ese momento justo todos los coordinadores ingresan al sistema?
+Entonces pueden buscar otra opción.
+El taping de acceso dura 15 minutos y la sesión 8 horas.
+¿Considera adecuado esos tiempos que se deben cerrar la sesión por inactividad?
+Sí.
+¿Faltan los roles de dirección académica, recursos humanos y directora?
+¿Los manejamos como roles fijos o como roles y permisos configurados del taping?
+- No hay problema. - Roles fijos.
+- Hola. - Muchas gracias, por que no fuiste nada.
+Sí, se aprueba el control de asistencia. Los docentes tenían que ingresar.
+Creamos un rol de docente con permisos mínimos en esta misma aplicación.
+- ¿Y va a llegar? - No se lo pensó así.
+- No. - Pero no estuviera mal.
+Porque lo que se hace es que ustedes cuando ya tengan ahí los horarios,
+los coordinadores lo que hacen es imprimir.
+Y sobre todo, Fabri, lo que haces es publicar en el module.
+Pero como siempre hay algo bonito que hay visto de la muaca, no estaría mal.
+¿Qué pruebas se exige como evidencia unitaria y de integración, de interfaz y qué cobertura mínima?
+¿Pruebas mínimas para el sistema?
+Sí.
+¿Todas?
+Ustedes tienen que ahí decirme cuáles son las necesarias.
+Yo, como justo, la misma pregunta me hizo conforme.
+yo le dije el éxito si fuera que una vez que ya yo te aprueba y que te diga que está bien
+vayas abajo y me pidas como te manejen para ver si nos surgen nuevos requerimientos
+¿Dónde y cómo se debe guardar la configuración sensible?
+Clave de base de secreta decisión, correo o servidor de producción
+¿Aló?
+Qué claro
+Sí
+Tienes que deshacer los códigos por correo, pero si está por correo quiere decir que
+también hay una base de datos que extrajo y si sucede eso deberían de generar un panel
+admin para los dos en el cual nosotros podamos ver qué código se le dio a quién en el
+en el caso de que tenga mis diálogos
+con el diagramo a la vista el modelo de 21
+si, si, no es pequeño
+vamos a estar bien
+es que son con el diagramo
+bueno es que ya hicimos la parte de los backlogs
+entonces venes más con eso
+pero es...
+si, pero es que no le presentamos eso
+- Oye... - ¿Quién va a leer Jeremy Dylan?
+El escándalo nació con Prisma y es que solo lo valía.
+¿Pasamos a Flynn Way?
