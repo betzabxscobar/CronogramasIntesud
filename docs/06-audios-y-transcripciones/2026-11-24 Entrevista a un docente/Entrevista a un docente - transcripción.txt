@@ -1,0 +1,79 @@
+Transcripción automática del audio "Entrevista a un docente - audio.mp4"
+Entrevistado: Tnlgo. Jeremy Rivera, docente por horas en Marketing, Ciberseguridad y Desarrollo de Software
+Herramienta: Whisper (modelo medium), ejecutado en el equipo, sin enviar el audio a internet.
+Algunas palabras pueden estar mal reconocidas; el informe de la entrevista corrige los nombres y los datos.
+
+¿Me permites grabar la entrevista?
+Sí.
+Ya.
+Es sobre la gestión de horarios y laboratorios.
+Ya.
+Ya.
+¿En qué escuelas dictas clases este periódico y qué asignatura tiene su cargo?
+A ver, estoy dictando clases al marketing, exposición, ofimática, estoy dictando clases
+a la ciberseguridad, a sistemas operativos y a la carrera de desarrollo de soco.
+¿Cómo cuánto recibes tu horario al inicio del periodo?
+¿Como cuánto?
+¿Cómo y cuándo?
+Ah, ¿cómo y cuándo?
+Ingen publica ahí en las carteleras y también está pendiente ahí.
+¿Le consulta su disponibilidad de días y horas antes de que asigne su horario?
+¿Cómo lo comunica?
+No.
+No, no comunico nada, solo estoy dependiente del horario que máximo.
+¿Ha tenido dos clases a la misma hora o sin tiempo para trasladarse a otras aulas, laboratorios o escuelas?
+No, a la misma hora no. No existe ningún choque.
+¿Cuándo cambia su horario? ¿Cómo se entera y cuanta anticipación?
+¿Cuándo cambia su horario?
+¿Cuándo cambia su horario? ¿Cómo se entera y con cuánta anticipación?
+Es enseguida, si es que hay algún cambio.
+¿Qué hace cuando no puede aceptar la carga de horario o el horario que le asignan?
+Además de sus clases, ¿qué otras actividades forman parte de su jornada?
+¿Gestión académica, vinculación, prácticas, investigación, tutorías?
+¿Cómo se registra?
+No, solo hiciste horas administrativas, cuando yo me quedo después de clases.
+Cuando uno puede asistir a una clase, ¿cómo justifica la ausencia y cómo se refleja en su padre?
+De verdad, es una buena pregunta.
+Que ver, ¿no? Que te ve.
+Cómo...
+Cuando uno puede asistir a una clase, ¿cómo justifica la ausencia y cómo se refleja en su padre?
+mando un comunicado y eso se refleja en... no se refleja en mi pavo, la verdad.
+¿Qué problema de horarios actuales le gusta a que se solucione primero?
+El que me envíen a poder enviármelo cuando ya esté en mi horario a poder que me envíen al correo.
+¿Cuál es su modalidad de contratación? ¿Tiempo completo, medio tiempo o tiempo parcial, por horas?
+Para profesor, por horas.
+¿En cuántas escuelas dicta clases de este periodo?
+En tres.
+¿Por qué medio recibe su horario?
+¿Corre electrónico, plataforma virtual, cartelera, WhatsApp?
+Carteler.
+¿Con qué frecuencia cambia su horario después de que inicia clases?
+¿Nunca? ¿Una o dos veces por periodo? ¿Más dos veces por periodo?
+Ese periodo más de dos veces cambió.
+¿Has tenido choques de horario?
+No.
+Si pudiera consultar, en cualquier momento, su horario actualizado de todas las escuelas, ¿le facilitaría su trabajo? ¿Por qué?
+Si conociera a yo.
+Sí, para poder...
+Y a veces que exista algún refuerzo para dar a los estudiantes.
+¿Qué información debería mostrar su horario, curso, aula, laboratorio, escuela, total de horas o otro?
+Sí, esa es la información.
+No importa lo que debería estar en adorar.
+¿Cree que el sistema sería uno más de los que ya existen, o si lo utilizarían?
+No existen esos tipos de sistemas. Sí sería bueno que exista.
+¿Cómo prefieres recibir su horario? ¿Y PDF? ¿Consulta de un sistema o ambos?
+PDF.
+¿Cómo le gustaría recibir el aviso cuando cambie su horario? ¿Corre electrónico? ¿Aviso dentro del sistema?
+Corre electrónico.
+¿Te gustaría registrar en el sistema su disponibilidad de días y horas antes de que se elabore el horario?
+Sería guay.
+¿Te gustaría ver el total de sus horas por semana y por mes de clase y otras actividades?
+Sí.
+¿Estaría de acuerdo con registrar en el sistema el inicio de cada clase para evidenciar su asistencia?
+Sí.
+¿Cómo preferiría ingresar al sistema?
+¿Cuenta Microsoft 365 número de cédula y contraseña o la G?
+¿Y con el correo de institución no?
+¿Desde qué dispositivo sería su horario? ¿Computadora, celular o...?
+Es la computadora.
+Ya. ¡Gracias!
