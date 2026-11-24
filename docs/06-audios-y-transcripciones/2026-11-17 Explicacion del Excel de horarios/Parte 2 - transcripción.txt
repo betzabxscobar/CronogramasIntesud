@@ -1,0 +1,8 @@
+Transcripción automática del audio "Parte 2 - audio.ogg"
+Herramienta: Whisper (modelo medium), ejecutado en el equipo, sin enviar el audio a internet.
+El audio tiene ruido de fondo: algunas frases pueden estar mal reconocidas. Los tramos sin voz se omitieron.
+
+[00:00:00] ¿No? No. No es una y quiero
+[00:00:30] no hay problema, tanto ves aquí este número de créditos, más o menos de veces, matemática
+[00:00:34] tres va a cuatro, comunicación oral es escrita dos, veintinueve va a dos, si estamos metodología
+[00:00:40] aquí dice una, pero vendamos cuatro, así que eso es lo de menos, entonces acá.

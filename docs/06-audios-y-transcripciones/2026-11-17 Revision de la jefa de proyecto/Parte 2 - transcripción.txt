@@ -1,0 +1,85 @@
+Transcripción automática del audio "Parte 2 - audio.ogg"
+Herramienta: Whisper (modelo medium), ejecutado en el equipo, sin enviar el audio a internet.
+El audio tiene ruido de fondo: algunas frases pueden estar mal reconocidas. Los tramos sin voz se omitieron.
+
+[00:00:00] [INGLÉS]
+[00:00:03] A simple vista, parece que está bien.
+[00:00:06] Pero en el formato, yo veo si en realidad el chat mismo ya
+[00:00:09] decidió generarlo o ustedes crearon las tablas.
+[00:00:12] Si chat les generó, si crearon ustedes las tablas,
+[00:00:16] bien.
+[00:00:16] Estamos.
+[00:00:21] Ya.
+[00:00:21] Datas generales.
+[00:00:22] Proyecto crónico de su.
+[00:00:24] Otra vez el tintito del año.
+[00:00:27] Sistema web de elaboración y fiscalizaciones.
+[00:00:30] Institución, instituto superior, tecnológicos,
+[00:00:32] dominación autónoma.
+[00:00:35] Escuela de desarrollo del software.
+[00:00:41] Esa parte de--
+[00:00:42] Ya no va a eso.
+[00:00:43] Sí, porque no tengo claro por qué usó los siete.
+[00:00:47] Sobre eso, no sé si está por eso.
+[00:00:49] Sí, recuerden que aquí ya la escuela no va.
+[00:00:52] Estamos haciendo la circulación.
+[00:00:55] Lo del instituto, sí.
+[00:00:57] Entonces, esa parte de las escuelas del equipo.
+[00:00:59] Sí.
+[00:00:59] Pero es fácil.
+[00:01:01] No.
+[00:01:01] A ver, fase de ciclo de vida.
+[00:01:03] Como es informativo y es para mí.
+[00:01:05] Sí, perdón, espérate, no es-- no hay ningún problema.
+[00:01:08] Pero la del concepto está mal.
+[00:01:11] Pues ahora estamos en la fase de planificación, ¿sí?
+[00:01:14] Porque esto está de mal.
+[00:01:16] Técnica aplicada, entrevista semi-estructurada, preguntas
+[00:01:20] abiertas y cerradas.
+[00:01:22] ¿Vale?
+[00:01:22] que es más común que lo que es.
+[00:01:27] Entrevistado es quien elabora
+[00:01:28] los horarios de la escuela y
+[00:01:31] quien administra el sistema. Uy
+[00:01:35] chicas, qué bestia, qué poder
+[00:01:36] que tiene el Fabi de elaborar los
+[00:01:39] horarios de las de la escuela.
+[00:01:42] Ni siquiera me detallan qué
+[00:01:45] escuela. Y dónde están el resto
+[00:01:50] de las entrevistas. Yo les doy
+[00:01:52] de la universidad de la escuela
+[00:01:55] de la escolarización, pero
+[00:01:56] también ayuda a elaborar los
+[00:01:58] horarios de sensibilidad y
+[00:02:00] administración pasa sus horarios
+[00:02:02] para el poder concordar los
+[00:02:04] laboratorios. Ah, ahí que hay
+[00:02:06] muchas datos que todavía no
+[00:02:08] veo ahí. Ya. Entremizcadores,
+[00:02:12] ¿Quieres ser toditos?
+[00:02:14] Yo creo que sí. Sí, voy. Sí,
+[00:02:18] sí. Pero eso es de la. Aunque
+[00:02:20] ¿Todo lo que ya pasó?
+[00:02:22] ¿Dosente tutorial?
+[00:02:24] No.
+[00:02:25] Tiempa.
+[00:02:27] Literación, ponerme ahí como jefe o encargarlo.
+[00:02:31] ¿Cómo están utilizando las metodologías?
+[00:02:32] No.
+[00:02:34] ¿Y el profesor?
+[00:02:37] El profesor sería, ¿cuál?
+[00:02:40] ¿Product owner?
+[00:02:41] ¿Quién es?
+[00:02:42] ¿Scrub master?
+[00:02:44] ¿Quién es?
+[00:02:46] Sí, amor.
+[00:02:48] Eso quiero ver.
+[00:02:50] Registro, grabación de audio y transcripción de entrevista.
+[00:02:54] Grabación de audio con termisos.
+[00:02:57] No se olviden, tenemos que haber esperamiento para hacer
+[00:03:00] con el texto.
+[00:03:01] ¿Ya?
+[00:03:02] Vamos a agarrar otro, Tomás.
+[00:03:09] Objetivo de la entrevista.
+[00:03:11] Conocer cómo se elaboran actualmente los orales,
+[00:03:16] [AUDIO_EN_BLANCO]

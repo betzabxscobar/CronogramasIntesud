@@ -1,0 +1,135 @@
+Transcripción de la primera entrevista del proyecto CRONO-INTESUD
+Fecha: 10 de noviembre de 2026
+Entrevistado: Mtr. Fabrizio V. Villasis Ch.
+Audio: "Primera entrevista - audio.aac"
+Transcripción entregada por el equipo. Incluye fragmentos de una conversación paralela que no forman parte de la entrevista.
+
+Listo, ahí inicia. Listo. Muy bien, empecemos.
+
+Para empezar, quería saber cómo recibe o prepara usted sus horarios de clases. En qué se toma en cuenta, cómo es este proceso al momento de hacerlo. ¿El horario de clases? Ajá, el horario, o sea, de clases, pero de los profesores.
+
+Ah, ya, los horarios de la escuela. Ajá. Entonces, se toma en consideración el número de créditos que tiene cada asignatura.
+
+¿Se acuerda el número de créditos? Se establece el número de horas por semana que tiene cada asignatura. Que varían justamente entre dos horas por semana, cuatro horas por semana. Ya, algunos por créditos pueden dar que sea tres horas, pero se redondea en nuestro instituto a cuatro horas.
+
+Sí, entonces están en función de los créditos, y los créditos están definidos en la malla curricular aprobada por los entes de control como la CENESID y el CASIS. ¿Antes de hacer los horarios, usted tiene que consultar con ellos para que la aprueben? ¿O se hace de una vez? A ver, se empieza entonces haciendo por la escuela de administración, o sea, cada semestre se empieza por la escuela de administración, ya que ellos son los que ponen las materias comunes que se llaman, como matemática básica, que existen en todas las escuelas, metodología de la investigación, comunicación y horario escrito. Entonces, siempre se empieza por administración que establece, entonces ellos, en su horario, las materias comunes.
+
+Luego el resto de escuelas, con ese horario preliminar de administración, y establecido justamente los horarios de las comunes, sobre todo para primer nivel, como te digo, matemática básica, metodología y comunicación y horario escrita. Entonces, a partir de ahí, nosotros desarrollamos nuestros horarios. Eso si hay retroalimentación, si es que ese horario que establece administración por las horas comunes no conviene, entonces justamente tratamos en círculo académico, es decir, en reunión de coordinadores, tratar de ajustar el horario.
+
+Así para que nos convenga a todos. De acuerdo. Previo al tema del programa, ¿dónde usted consulta su horario? ¿En papel, en mensaje, en hoja de cálculo? En hojas de cálculo lo realizo.
+
+En hoja de cálculo en Excel. Hoja de cálculo. ¿Y quién está a cargo de realizar los horarios? ¿Solo usted o hay alguna entidad más? No, solo yo.
+
+Y luego pasa aprobación de dirección académica. Listo. Y de recursos humanos.
+
+Listo. Listo. Además de las clases, ¿qué actividades necesita organizar? Tal vez tutorías, reuniones, preparación de otras clases.
+
+Si hay tutorías que ya queda establecido luego de las horas de clase, pues si los estudiantes requieren, inmediatamente se asigna el tiempo que requieran hasta las 4 de la tarde para tutorías. Y se lleva un registro en hoja de la tutoría dada. Listo.
+
+¿Podríamos, tal vez, mostrarnos, o mejor dicho, decirnos un ejemplo de cómo crea un horario usted? Un ejemplo. Bueno, a este le salto porque ya nos... Claro, si le conoces y ahí, si necesitan para su trabajo a partir de Excel, sí les puedo dar. Igualmente el profesor Jeremy ya nos proporcionó esta información.
+
+Así que esta de aquí le podemos saltar. ¿Y con qué permiso, Jeremy? Les han dado mis horarios. No, no, dio uno de ejemplo, uno de formato vacío.
+
+Ya. ¿Qué es lo más complicado a la hora de organizar o consultar su horario? De elaborar el horario. Más de consultar, no.
+
+Ya está dicho el horario. De elaborar el horario es justamente que no haya choques en los profesores que se distribuyen en los distintos niveles, en las distintas asignaturas y en los distintos laboratorios. Hacer que todo coincida.
+
+Que no haya cruces de horarios. Que un profesor no tenga cruce de horario que es justamente una asignatura en un nivel y otra asignatura en otro nivel. Listo.
+
+Y que dos aulas no estén ocupadas al mismo tiempo. Y que los laboratorios estén disponibles y que los laboratorios disponibles tengan la cantidad de computadoras que se requiere por el grupo asignado a esa asignatura. Eso está bien.
+
+¿Podría contarnos la última vez que tuvo problemas con sus horarios? ¿Qué ocurrió y cómo lo resolvió? Como me bajaron un profesor, me aprovecharon, salió. Entonces, por el número de profesores, justamente hacer coincidir sus horarios, que no se crucen. Y que tratar de que ustedes como estudiantes tengan lo más posible las mañanas, evitándoles las tardes para tener clases.
+
+Siempre lo se ha logrado, pero en esta ocasión sí tocó algunas asignaturas que se den a partir de las 12. Más fue por el número de profesores. Y también otra consideración de que ahora también laboratorios necesitan ciberseguridad.
+
+¿Acabaron? Sí. ¿Sí? Listo. La espera, no hay problema.
+
+Ahora sí, continuamos. Listo. Esta sí, pero igualmente me gustaría saber su opinión.
+
+¿Ha tenido clases o actividades que coincidan a la misma hora? ¿Cómo se dice? ¿Ha tenido clases o actividades que se coincidan a la misma hora? O sea, ¿ha habido que un profesor le toque como dos clases o que justamente le hayan coincidido dos...? No, pues por eso desde el inicio se evita eso. Listo. ¿Cuándo cambia una clase? ¿Cómo se entera y cómo se comunica el cambio a las personas afectadas? Yo mismo les aviso si hay algún cambio.
+
+Personalmente. ¿Hay alguna tarea relacionada con los horarios que tenga que repetir o que le quite mucho tiempo? Cuando hay imprevistos como esta vez que me quitó y que se fue la aprovisaron. O requerimientos de otras escuelas por laboratorios de última hora.
+
+Listo. ¿Qué información debe aparecer siempre en un horario para que le resulte útil? Debe estar la asignatura, el aula y el profesor. Acompañado de día y hora.
+
+¿Sí se movió ese disco? No, se quedó ahí. Cáncele, ya está todo el amanecer. ¿Cuando hay días que no puede dar las clases, cómo informa esa disponibilidad? ¿Pero que falto o que no puedo dar? O sea, por ejemplo, digamos que un profesor le dice que el martes de la siguiente semana no va a poder venir porque tiene cita médica.
+
+¿Cómo en ese caso se gestiona? Para que no pierdan los chicos clases, entonces se deja una actividad en la plataforma. Y a la clase desarrollada, un laboratorio, una actividad en la plataforma. Y con el proceso normal de presentar la cita y avisando a recursos humanos.
+
+Listo. Si es necesario, ¿no? Si no, solo se quedan con una cita. ¿Qué condiciones deben cumplirse al asignar una clase? Por ejemplo, disponibilidad del aula, equipo necesario o tiempo para trasladarse.
+
+A ver, a ver, ¿cómo, cómo? ¿Qué? ¿Qué condiciones debe cumplirse al asignar una clase? ¿Al asignar? Por ejemplo, lo que usted mismo me comentaba hace rato. Entonces, disponibilidad de combos para el número de estudiantes para esa asignatura. Máximo dos por computadora.
+
+¿Cuál es el ordenador? Con SMD y con Checklist, con CHKDSK. Ahí está, ahí está. Si tuviera este programa, ¿cuáles serían las tres cosas más importantes que debería poder hacer? Las tres más básicas.
+
+A ver, poder con facilidad poner el profesor. La asignatura, el aula y copiar y pegar donde vea necesario para generar el horario. Listo, ya lo anoté.
+
+¿Desde dónde necesitaría utilizar? Que me indique de forma automática si existe algún choque. En laboratorios y en asignación del profesor, si se le chocan las clases. Ya sale correcto, participación y datos básicos.
+
+Ya, ahora pásale el Crystal Disk. Dele la salud. Listo, ¿desde dónde necesitaría utilizar este aplicativo? ¿Celular, computadora o ambos? Computadora nomás, no puede ser de celular.
+
+Sale malo todavía. Entonces, ahora sí googlea el FIX, el de reparación por el juego de celos o SMD. ¿Necesitaría consultar únicamente su horario o también el de otros docentes? De todos.
+
+Para estar al tanto. Hasta de las otras escuelas. Listo.
+
+¿Necesita imprimir o descargar? Este parece que sí. ¿Cómo? ¿Necesita imprimir o descargar los horarios? Sí, este también. Hola.
+
+Disculpen. ¿Qué pasó? ¿Vas a donar algo? La chompa dijo. A la institución.
+
+A ver. Claro que se imprime, pero en casos muy excepcionales. Debe generar el PDF para las firmas electrónicas, es lo importante.
+
+Listo. Perfecto. ¿Cómo se daría cuenta de que el programa le está ayudando y funciona bien para su trabajo? Al contrastar con el resto de escuelas, de que los horarios, al ser por primera vez con toros impresos, no hay choque de profesores.
+
+Y pues genera correctamente los horarios. Y queda de historial. Listo.
+
+Si en una primera versión del programa pudiéramos resolver un problema, ¿cuál debería ser? ¿En una primera versión del programa qué qué? Si pudiéramos resolver un problema, ¿cuál sería? ¿Cuál sería el más importante a resolver? El choque de profesores, de asignaturas. Que me avise rápido. Hay gente que no me avisa.
+
+Y eso genera más rápido el horario. En vez de estar revisando a cada rato. A ver, esto ya está aquí, ya está acá.
+
+Acá se me choca. Listo. Pasamos a las siguientes.
+
+¿Le gustaría poder consultar el horario de un profesor en específico? Por ejemplo, poner... De todos. De todos. Es una necesidad.
+
+Así, si hay otra escuela de un profesor, debo saber su horario completo y hasta de los campos. Tabla. ¿Le sería útil consultar qué profesores están libres en una determinada hora? Claro.
+
+¿Necesita conocer cuánto tiempo dispone entre una clase y otra? Sí, también. Esto también, justamente. ¿Con qué frecuencia se modifican los horarios durante un período académico? Durante el período académico.
+
+Puede darse alguna situación en especial en la primera o máxima, hasta la segunda semana. Que requiera un cambio. Cada día ya queda fijo el resto del semestre.
+
+¿Qué información debería recibir cuando se modifica una clase? Motivo... ¿Y si encuentro con el profesor? ¿El motivo del cambio? Claro, ¿qué pasa? ¿Por qué no puedo? Listo. ¿Por qué medio preferiría recibir notificaciones sobre el cambio de horarios? ¿Correo electrónico, notificaciones en el aplicativo, o otro medio de sello? En el aplicativo. Por correo y por WhatsApp.
+
+¿Le gustaría que el sistema le notificara cuando un aula... ...necesite que se... ...le notifique cuando un aula... No, perdón, está esta mal. ¿Considera importante que el sistema conserve un historial de los cambios realizados en los horarios? Perdón, ¿cómo? ¿Considera importante que el sistema conserve un historial de los cambios realizados en los horarios? Claro, si se ha dado el caso de que toca volver. Ah, ¿necesitas de ellos? Sí, solo para que me hagan lo del link.
+
+Ah, ya, listo. Gracias. Gracias.
+
+¿Qué más necesitas? Todo bien, todo fino. ¿Puedes dejarnos ahora en el servicio? ¿Cómo siempre? Ya vale, pasa esto. Ya.
+
+¿Quiénes deberían tener acceso al aplicativo? ¿Profesores, coordinadores, personal administrativo? Solo coordinadores, dirección académica y recursos humanos. Bueno, y rector, ya. Ya sabemos.
+
+¿Alexander, cómo era que le dijo la boneza? Ah, Víctor. ¿Considera necesario que cada usuario tenga diferentes permisos dentro del sistema? Claro. Un administrativo solo yo y los demás.
+
+Claro, de edición, para poder crear, consultar, pero yo todo lo demás que considere. Por ejemplo, el administrativo sí tendría control total, ¿verdad? ¿O cuál sería? Claro, y cambiar nombres de coordinadores, cambiar asignaturas. Eso el administrativo y los demás, y al uso de generar sus propios horarios.
+
+Sus propios horarios, ya. Pero ellos solo podrían visualizar su propio… No, no, no. Desarrollar y generar sus horarios.
+
+No me serviría de nada que el resto de coordinadores solo vea. Ellos hacen, cada coordinador hace su horario. Y si digamos, tenemos uno de recursos humanos.
+
+En ese caso, ¿él solo visualizaría? No, nadie visualizaría. Todos pudieran meter manos. Solamente yo, cosas muy delicadas como, tal vez… No, ni eso.
+
+Igual hasta asignaturas podrían hacerlo ellos. ¿Cómo sería el Excel? Tal vez solo yo quitar o dar permisos. Eso sí, quitar quién puede ingresar, quién no, porque suponte se va un coordinador, entonces a ese ya le cambio la contraseña digital.
+
+Sí, pero lo demás… No, pues me cargo yo el trabajo, no el coordinador. Si ve necesario de cambiar un valor de crédito, si es que se da la oportunidad, o una asignatura, cambiarle el nombre porque es un nuevo… sílabo o lo que sea, entonces sí, ellos deben de tener también la capacidad. De acuerdo.
+
+Aquí no hay problema de que me den cambiando nada. No es bien colaborativo y también los profesores son a veces comunes entre escuelas, también que me den choque de profesores entre escuelas. Listo.
+
+¿Qué información de los horarios considera que debería ser privada y cuál debería ser consultada por otros usuarios? No, aquí no hay privada. No hay privada. No hay datos sensibles.
+
+Listo. Definitivamente es académico este proyecto. Y por último, ¿le gustaría que el sistema permita iniciar con cuenta institucional o cuál sería el medio de iniciar sesión? Con cuenta institucional para yo tener el poder de que, como te digo, si se va alguien, cambiar contraseña y ya.
+
+¿Qué pasa? ¿Está todavía presentada con WEF? Sí. Con cuenta institucional. Ya con eso ya estaríamos.
+
+¿Ya? Tal vez alguna cosa que no tratamos, alguna... No, que sea WEF para que puedan trabajar los coordinadores aquí o en su casa. Yo le presento a mí. Yo le presento a WEF, pero con mi espuño.
+
+Ya. Jeremy nos dio un proyecto de Node.js. No importa. Solo se le da.
+
+Ya. Fíjate, está malo, físicamente. Ya no sé, ¿qué le mandaste? Le encluyó un disco al Tri.

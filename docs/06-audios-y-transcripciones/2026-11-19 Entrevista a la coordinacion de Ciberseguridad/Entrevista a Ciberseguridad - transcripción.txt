@@ -1,0 +1,78 @@
+Transcripción automática del audio "Entrevista a Ciberseguridad - audio.mp4"
+Entrevistado: Ing. Luis Martínez, coordinador de Ciberseguridad y Seguridad Ciudadana
+Entrevistadora: Srta. Génesis Remache
+Herramienta: Whisper (modelo medium), ejecutado en el equipo, sin enviar el audio a internet.
+Algunas palabras pueden estar mal reconocidas; el informe de la entrevista corrige los nombres y los datos.
+
+Buenas tardes, yo soy Gina C. Ramache, hoy 19 de noviembre le voy a realizar una entrevista si me permite grabarle.
+Sí, por favor.
+Empezamos ya. ¿Cómo realiza usted la planificación y la elaboración de horarios en su escuela?
+Con base a los formatos que tiene la institución.
+¿Qué información necesita para comenzar a elaborar los horarios?
+la carrera horaria de cada una de las asignaturas
+y la asignación de docentes que nos remite de talento humano.
+¿Qué le proporciona esa información?
+Talento humano y la dirección académica.
+¿Cómo coordina con los coordinadores de las otras escuelas
+las asignaciones de los docentes que tratan en varias escuelas?
+Cuando son materias transversales,
+Las escuelas que tienen mayor cantidad de alumnos son las que definen los docentes
+y nosotros nos acoplamos a los horarios que el día tiene definidos.
+¿Cómo solicita los laboratorios que necesita su escuela?
+Con base de coordinación con el director de TICS de la institución.
+¿Cómo conoce la disponibilidad de los laboratorios?
+En coordinación directa con el ordinador de TICS de la institución.
+Una vez conformado su horario, ¿a quién se lo entrega para que sea aprobado?
+A la División Académica.
+¿Qué situaciones provocan modificaciones en los horarios?
+La posible no aceptación de la cártera por parte de algún docente,
+o alguna cambio o rectificación que haya a través de la exposición de las autoridades.
+¿Cómo comunica esos cambios a los docentes?
+Una vez que está aprobada por la División Académica se les comunica mediante correo electrónico y de manera personal.
+¿Cuánto tiempo le toma elaborar un horario completo?
+Un día laboral.
+¿Cuánto tiempo le toma corregir un horario después de recibir observaciones?
+Se quedan unas dos horas.
+¿Utiliza herramientas digitales para organizar los horarios?
+que ofrece la institución.
+¿Su escuela comparte docentes con otras escuelas?
+Sí.
+¿Su escuela necesita laboratorios para sus asignaturas?
+Sí.
+¿Ha tenido dificultades por coincidencia de horarios?
+En el laboratorio sí, pero sí se ha llegado a consenso con los otros cursores.
+¿Con qué frecuencia recibe observaciones de dirección académica sobre sus horarios?
+A mi no, al inicio se coordina y de ahí ya no tengo asociaciones.
+Y ya, luego se me una preguntas sobre el sistema ya.
+Si un sistema redujiera el tiempo de elaborar su horario que nos indicó en un solo día,
+¿le gustaría utilizarlo y por qué?
+Por la optimización de tiempo.
+¿Qué funciones debería tener disponibles el coordinador de cada carrera dentro del sistema?
+¿De este sistema de horarios?
+Sí.
+Ah, el poder revisar de una manera directa la carga y que automáticamente le genere con los condicionantes que se ponga.
+¿Qué tipos de conflictos debería identificar automáticamente el sistema?
+El cruce de horas y el conflicto de laboratorios.
+¿Cómo debería notificar el sistema cuando detecte un conflicto?
+No dejarme avanzar en la creación del horario.
+¿Cree que el sistema sería uno de los de muchos que existe, o se utilizaría?
+No, se utilizaría ahí.
+¿Le gustaría que el sistema le avise inmediato si un docente a un laboratorio está ocupado por otra escuela?
+Sí.
+¿Le gustaría copiar y pegar clases dentro del horario?
+No.
+¿Le gustaría enviar el horario a aprobaciones desde el sistema y de ahí recibir los servicios?
+Sí.
+¿Le gustaría descargar el horario en pdf por nivel y por docente para publicarlo en la plataforma virtual o en las carteleras?
+Sí
+¿Le gustaría ver los horarios de las demás escuelas?
+No
+¿Cómo le gustaría consultar los horarios?
+¿Por carrera, por curto nivel, por docente, por aula o por laboratorio?
+Por docente, por carrera
+¿Y cómo preferiría ingresar al sistema?
+¿Cuenta institucional Microsoft 365, número de cédula y contraseña o un logic?
+Con un número de 0, y con la suite de Office 365.
+¿Desde qué dispositivo usaría el sistema computador a celular o ambos?
+Los dos.
+Bien. Necesitamos muchas gracias.

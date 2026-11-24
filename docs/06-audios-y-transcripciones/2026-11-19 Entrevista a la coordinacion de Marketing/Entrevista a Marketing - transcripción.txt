@@ -1,0 +1,98 @@
+Transcripción automática del audio "Entrevista a Marketing - audio.mp4"
+Entrevistado: Mtr. Daniel Sandoval, coordinador de la Escuela de Marketing
+Herramienta: Whisper (modelo medium), ejecutado en el equipo, sin enviar el audio a internet.
+Algunas palabras pueden estar mal reconocidas; el informe de la entrevista corrige los nombres y los datos.
+
+Buenos días, hoy 19 de noviembre le vamos a realizar una entrevista sobre el sistema de horarios cronóintes U.
+¿Estaría de acuerdo a ser grabado?
+Sí, claro.
+Empezamos con las preguntas ya.
+¿Cómo se realiza la planificación y elaboración de horarios en su escuela?
+En nuestra escuela nosotros ya tenemos pre-definido semestre a semestre las materias, obviamente
+se identifica que cursos se abrirán tomando en cuenta que cada curso se abre con 5 estudiantes
+y de ahí se toma en cuenta un horario base que es el de la carrera de administración,
+se cuadran las horas y se permite empatar con las materias de maquinar.
+¿Qué información necesita para comenzar a elaborar los horarios?
+el número de estudiantes matriculados.
+¿Qué le proporciona esa información? ¿Quién le proporciona la información?
+En este caso esa información nos entrega financiera.
+¿Cómo coordina con los coordinadores de las otras escuelas las asignaturas de los docentes que trabajan en varias escuelas?
+Ya, en este caso, bueno, nosotros inicialmente tenemos, como les mencionaba, este horario base,
+es el de la carrera de administración, ahí se pueden identificar los docentes que son
+en materias comunes o generales, o a su vez materias de marketing que tienen mucho que
+ver con la materia de administración, entonces ejemplo, en Contabilidad reciben en marketing
+y en administración, entonces yo ya cuadro con esos horarios y obviamente ya en mi horario
+consta el docente y ya, luego nosotros tenemos una reunión para cuadrar todos los horarios.
+¿Cómo solicitan los laboratorios que se necesitan para su escuela?
+Sí, una vez que ya están hechos los horarios, nosotros identificamos las materias obviamente que son prácticas
+y con eso realizamos la solicitud del laboratorio o del aula, en este caso, técnica.
+¿Cómo conoce la disponibilidad de los laboratorios?
+En este caso el director académico es quien da la disponibilidad de todas las aulas y laboratorios y él es quien los hace.
+Una vez conformado su horario, a quien se le entrega para que sea aprobado?
+Ya, los horarios una vez que están realizados se entregan a departamento de recursos humanos
+conjuntamente con dirección académica y ellos proceden a aprobar los docentes y los horarios.
+¿Qué situaciones provocan modificaciones en los horarios?
+Claro, a veces el número de estudiantes, hay situaciones donde se cambian de la noche a la mañana, viceversa, o a veces se retira, entonces eso hace que tengamos que cambiar, a veces cerrar un horario en la mañana, pasarlos a la noche, entonces eso modifica mucho.
+¿Cómo comunica esos cambios a los docentes?
+¿A los docentes?
+En este caso, cuando hay algún cambio de horario, se le manda de igual manera al docente
+por correo electrónico informándole que hubo alerta.
+¿Cuánto tiempo le toma elaborar un horario completo?
+Bueno, ahora ya es netamente horas, pueden ser unas cuatro horas, son medio día de trabajo.
+¿Cuánto tiempo le toma corregir un horario después de recibir observaciones?
+Eso, eso, ya...
+No me traigan nada acapados, guagua, porque yo no puedo...
+[Nota del equipo: la respuesta queda tapada por una interrupción ajena a la entrevista. El entrevistado respondió: de 2 a 3 horas.]
+¿Utiliza herramientas digitales para organizar los horarios?
+No, o sea, las aplicaciones básicas, Excel, paqueteo...
+¿Su escuela comparte docentes con otras escuelas?
+Sí, con administración.
+¿Su escuela necesita laboratorios para sus asignaturas?
+Sí, las materias de marketing digital y social media, más o menos.
+¿Ha tenido dificultades por coincidencias de horarios?
+No, en ese aspecto no hemos tenido problemas.
+¿Con qué frecuencia recibe observaciones de dirección académica sobre sus horarios?
+No, casi ninguno de nosotros recibe más desinformación.
+Sí, un sistema.
+Antes de esto, le queremos explicar que el sistema es un base cronóinteso.
+Es una aplicación web en la que cada coordinador elabora sus laboratorios, sus horarios, el
+sistema avisa de inmediato los choques de docentes y los laboratorios de otras escuelas y los
+horarios se revisan, se aprueban y se descargan en PDF.
+Cada pregunta indica el tipo de requerimiento que vamos a obtener ya.
+Si un sistema redujiera el tiempo de elaboración del horario de lo que se indicó un solo día,
+¿Te gustaría utilizarlo? ¿Y por qué?
+Claro, es una nueva herramienta, es la estrategia y más que todo nos permite ahorrarnos más tiempo.
+No había ningún inconveniente, sería una buena idea.
+¿Qué funciones debería tener disponibles usted como coordinador en cada carrera dentro del sistema?
+En cada carrera, ¿qué funciones?
+Quizá de... no de editar porque algún otro coordinador podría cambiarnos ahí cualquier cosa en el horario,
+pero sí de notificar, de generar alguna alerta. Eso sería importante.
+¿Qué tipos de conflictos debería identificar automáticamente el sistema?
+Choque de horas, choque de docentes, podría ser alguna materia que se repita porque a
+veces suele pasar. No siempre, pero puede que por ahí tengamos algún error de eso.
+¿qué debería notificar el sistema cuando detecte un conflicto?
+Obviamente debería detectar en este caso cuál fue el conflicto en específico y a las partes que están ahí cometiendo el error.
+¿Cree que ese sistema sería uno más de los que ya existen y no se utilizaría?
+No, yo creo que sí sería un sistema interesante, como les digo, porque es algo que nos toca trabajar todos los semestres, los horarios,
+Si podemos automatizarlo y generar una nueva herramienta, pues sería una de mucha ayuda.
+¿Le gustaría que el sistema le avise de inmediato si un docente o un laboratorio ya está ocupado por otra escuela?
+Sí.
+¿Le gustaría copiar y pegar clases dentro del horario?
+Copiar y pegar clases.
+Sí, también.
+¿Le gustaría enviar el horario a aprobación desde el sistema y recibir allí las observaciones?
+Se debería automatizar todo el proceso.
+¿Le gustaría descargar el horario en PDF por nivel y por docente para publicar en la plataforma virtual o en las carteleras?
+Sí.
+¿Le gustaría ver los horarios de las demás escuelas?
+Sí, también.
+¿Cómo le gustaría consultar los horarios?
+Por carrera, por curso, nivel, por docente, por aula, por la aula.
+¿Por carrera?
+Sí.
+¿Cómo preferiría ingresar al sistema?
+¿Cuenta institucional de Microsoft? ¿365? ¿Número de cédula y contraseña? ¿o un logic?
+Yo creo que cédula y contraseña.
+¿Desde qué dispositivo sería el sistema? ¿Computadora, celular o árboles?
+Computadora.
+Ya, eso sería todo. Muchas gracias.

@@ -1,0 +1,51 @@
+(Transcrito por TurboScribe. Actualizar a Ilimitado para eliminar este mensaje.)
+
+Martes 17 de noviembre del presente año 2026. Estamos por realizar la entrevista al Magister Fabricio Villasís en el Instituto Superior Tecnológico Sudamericano, Quito. ¿Está de acuerdo que podamos grabar? Sí.
+
+¿El tema qué es? Sí, te estoy diciendo. ¡Graba! ¡Graba! Solo habla del tema. Impecable.
+
+Habla del tema. ¡Sigue grabando! ¿Para qué le paras? El tema a tratar el día de esta entrevista es sobre el proyecto Cronin de Sud. Que trata sobre la gestión de horarios del departamento.
+
+Muy bien, continuemos. Vamos a empezar con las preguntas. ¿Cuál es su cargo exactamente en el instituto? Coordinador de la Escuela de Desarrollo de Sudbar y responsable del departamento interior.
+
+Me parece que no está grabando. No hay una IA que después coje mi aula y saque mi texto. ¿Cuántos docentes tiene la escuela en este periodo? ¿Y cuántos dan clases también en otras escuelas? Tres en este periodo. 
+
+No, cuatro en este periodo. Y dos dan en otras escuelas. Anteriormente nos dijo que las horas salen de los créditos y que tres horas se redondean a cuatro.
+
+¿Cuántas horas por semana corresponden a cada número de créditos? No, no, no. De acuerdo a lo establecido en los créditos, al elaborar la malla ya aprobada por los entes de control, sale el número de créditos bajo otros criterios. Ustedes no necesitan saber bajo qué criterios son los créditos, sino tomar que ya existen los créditos.
+
+En función de los créditos se establece el número de horas clase a la semana. ¿Sí estamos? Sí. Entonces, si los créditos determinan una hora, se dan dos.
+
+Si determinan dos créditos, tres horas, se dan cuatro. Y si en alguna escuela se determina que esos créditos son cinco horas, igual se redondean cuatro. Ya.
+
+Eso está en función de las mallas aprobadas por el CASES, por el SEMICID de cada una de las escuelas o carreras. Ya. Al registrar una clase, el docente ya tiene otra.
+
+A esa hora, en la otra escuela, ¿qué debe hacer el sistema? Indicarle de que no es posible la asignación de una asignatura luego de la asignación de la primera, porque se empieza a hacer el horario. Asignó el profesor a una hora, pero luego, en otro nivel o en otra escuela, le tiene que avisar que hay un choque, que el profesor ya está asignado en ese horario. Entiendo.
+
+Un laboratorio tiene quince computadoras y puso treinta y cinco estudiantes. Con dos por computadoras caben treinta. ¿Qué debe hacer el sistema? El sistema, lo que me puede avisar es el número máximo de estudiantes, considerando dos máximos por computadora.
+
+¿Sí? Y en tal caso, el sistema solamente advertirme y se debería, entonces, yo que hago los horarios, o el coordinador que hace los horarios, repartir ya en dos laboratorios. ¿Sí? Y ahí sí, entonces, determinar, por ejemplo, grupo A, grupo B. Entiendo. ¿Sí? Sí.
+
+¿Un docente tiene máximo de horas de clase por día o por semana? Por semana. ¿Cuánto es el máximo de horas? Ahorita, idealmente, se supone que debería de ser, si es profesor tiempo completo, se supone que veinte, veintidós. Veintidós.
+
+¿Ya? Y el tiempo parcial. Si es tiempo parcial, es decir, por contrato, las que se le asignan. Porque ahí gana en función de las horas de clase.
+
+Ya. ¿En qué orden se apruebe y firma el horario y con qué herramienta firma, de firma electrónica? ¿En qué orden? ¿Cómo dice eso? Ahí está, de los ejemplos. ¿El coordinador, dirección académica, recursos humanos? Los tres humanos, con firma electrónica.
+
+¿Con firma electrónica los tres? Sí. ¿Cómo debe salir el horario? ¿En PDF? PDF, sí. Ya es digital la cláusula que utilizamos, la política cero papel.
+
+Ya. ¿Y debería ser un PDF por escuela, un PDF por curso, por docente o qué nos sugerirían? Un PDF, no, depende. Se puede entregar, lo mejor es el PDF por nivel.
+
+O sea, más bien se entrega el PDF por nivel y se entrega el PDF por profesor. Ya. Espera, Sandra.
+
+¿Qué trajiste? ¿Me diste el script o no? Eh, sí. Ya. ¿Qué pueden hacer las autoridades en el sistema? Elaborar los horarios.
+
+Dirección académica solo consultar, consultar y aprobar, editar. No, también puede editar, todos podemos editar. Es una herramienta colaborativa, no se requieren restricciones, y solamente yo comité asignar al coordinador dirección académica.
+
+¿Qué cuenta institucional usa el instituto y quién administra? Microsoft 365. Microsoft 365, sí, yo, yo ahora mismo. Si en una demostración el sistema hace bien una sola cosa, ¿cuál tendría que ser para que solo usted lo dé por aceptado? ¿Una sola cosa? Que elabore bien los horarios y me avise que se chocan los probes en los laboratorios.
+
+¿Para qué periodo necesita? Ya para el siguiente, 27-27. Eso es todo, muchas gracias. Ya, muchas gracias también.
+
+De nada.
+
+(Transcrito por TurboScribe. Actualizar a Ilimitado para eliminar este mensaje.)

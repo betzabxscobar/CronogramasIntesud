@@ -1,0 +1,41 @@
+Transcripción automática del audio "Parte 3 - audio.ogg"
+Herramienta: Whisper (modelo medium), ejecutado en el equipo, sin enviar el audio a internet.
+El audio tiene ruido de fondo: algunas frases pueden estar mal reconocidas. Los tramos sin voz se omitieron.
+
+[00:00:00] No sé cómo se elaboran actualmente los horarios de clases de la Escuela de Desarrollo Rural.
+[00:00:06] Yo sí dije, a mí también.
+[00:00:08] ¿Qué dificultades? Y ni siquiera me permite tener una lectura subida.
+[00:00:13] Por eso les digo a ustedes, ah, no, no tienen que estudiar en eso.
+[00:00:18] ¿Qué dificultades tiene ese, a ver, a ver, ¿qué dificultades tiene ese proceso?
+[00:00:25] Me habla en el plural y luego en el singular.
+[00:00:31] ¿Qué dificultades tienen los procesos?
+[00:00:35] ¿Y qué se espera que el usuario principal--
+[00:00:39] Ahí ya me he confundido.
+[00:00:41] Está mal combinado.
+[00:00:43] Tiene que un proceso principal de un sistema que el babor chuta.
+[00:00:48] Me metieron cuatro ideas en una que ni siquiera pude leer.
+[00:00:53] ¿Qué dificultades tiene ese proceso?
+[00:00:55] y que se espera, y que espera el usuario principal de un sistema que la ponen.
+[00:01:01] Si me hablan de usuario principal, ¿dónde está el usuario diseñado?
+[00:01:06] Si ustedes van a poner palabras como "principalmente", "primera",
+[00:01:11] ese tipo de palabras, quiero decir que va a haber unos segundos en el tercer o en el cuarto de la semana.
+[00:01:15] Pero no hay idea y me pregunto, más que todo, no sería más porque...
+[00:01:19] Pero yo lo entiendo porque se le hace sonreír en este caso a Nihige, que es el que está relacionada con el sistema de salud de todos los almacenes y por qué la entrevista está muy desagradable.
+[00:01:31] es que es justo ahí en la doce, como yo creo, en la doce, cuando, en la entrevista comera de un forno,
+[00:01:39] la entrevista de él fue lentamente alzada y no podía, él levantaba un forno,
+[00:01:47] no podía hacer nada si no entrevistaba a los demás involucrados,
+[00:01:51] mi padre no puede por sí solo generar horarios y laboratorios porque depende de las carreras
+[00:01:56] y depende de la obsesión académica y depende de las cosas humanas.
+[00:02:00] Aquí las personas que van a manejar el sistema son realmente los humanos,
+[00:02:05] la dirección académica, los coordinadores que juegan las escuelas,
+[00:02:09] inclusive los coordinadores de procesas.
+[00:02:13] Así que no se quería ir a allargar.
+[00:02:16] También se involucran, inclusive recursos humanos,
+[00:02:20] y también las que van con los recursos humanos.
+[00:02:23] También, inclusive, a veces tienen un pelo de copia en el cielo,
+[00:02:28] porque se puso a su mano a ver el horario, ver que se inmunizan la copia de cuánto hay que grabar a la vez.
+[00:02:34] Si ve, dependen mucho todos de este sistema.
+[00:02:39] Si muy bien Javi fue quien creó el listo y el que corrige el listo y que él pertenece y dé,
+[00:02:47] pero no tiene razón de que sea el coño único de este sistema.
+[00:02:50] Y eso es el que cometieron, porque volvieron a ser una entrevista para la nueva persona que ya se quiso.
+[00:02:56] (Risas)

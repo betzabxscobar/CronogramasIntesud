@@ -1,0 +1,114 @@
+Transcripción automática del audio "Revisión del 18-11-2026 - audio.mp4"
+Herramienta: Whisper (modelo medium), ejecutado en el equipo, sin enviar el audio a internet.
+El audio tiene ruido de fondo: algunas frases pueden estar mal reconocidas. Los tramos sin voz se omitieron.
+
+[00:00:00] Profes, con la finalidad de poder tener justo una fuente fiable de funcionamiento y para poder
+[00:00:08] implementarlo en Crowning Tesoro. ¿Por qué no mencionan de dónde nace ese Excel? ¿Por qué no les voy a dar cualquier Excel?
+[00:00:21] -¿Ya me entendieron? -Sí -Eso tienen que ver la lege.
+[00:00:25] -Ahora las entrevistas.
+[00:00:27] Bueno, ahorita vamos a hacerle la lege a la dirección académica.
+[00:00:34] -¿Cuál es la mayor? -El recurso de su mano y la coordinación de su experiencia.
+[00:00:38] -Sí, y dependiendo de la información que nos de la dirección académica,
+[00:00:41] vemos si es necesario una más para cada coordinador de la carrera.
+[00:00:45] -¿Ya? -Ya.
+[00:00:48] -Esto es la dirección académica.
+[00:00:50] ¿Cómo se organiza actualmente el proceso de elaboración de horarios, en qué momento
+[00:01:00] interviene dirección académica, qué información reciben los coordinadores para consultar horarios,
+[00:01:06] qué aspectos se realiza antes de probar, qué procedimiento sigue ya?
+[00:01:15] Dirección académica establece fechas o plazas para mejorar los YAMP.
+[00:01:21] Existe un mecanismo establecido para comunicar cambios o disposiciones YAMP.
+[00:01:25] Se verifica la compatibilidad de las diferentes YAMP.
+[00:01:31] ¿Quién determina YAMP?
+[00:01:33] El reporte es listo.
+[00:01:35] Están viendo la necesidad, pero en ningún momento preguntan sobre el beneficio de implementar un sistema.
+[00:01:43] ¿Por qué el va a decir ok? ¿Y para qué?
+[00:01:51] Entonces las preguntas de, ¿usted considera que implementar un sistema que gestione justamente
+[00:01:58] esta misma actividad desde la comunidad de su puesto sin necesidad de estar dirigiendo
+[00:02:03] hacia mi jefá o nada de eso, que cuando usted pueda cargar sus horarios le facilitaría
+[00:02:07] la vida. O cree que hay tantos sistemas que este sería uno más que no se va a utilizar. O sea,
+[00:02:14] son preguntas del sistema a lo que yo quiero ir. Eso no está ahí. ¿Le gustaría que el sistema
+[00:02:21] tenga gloría? ¿Y qué le parece si ingresa con su número de seductor? Ahí está el funcionamiento
+[00:02:27] del sistema. Si no, tiene gran necesidad, pero ¿dónde están los requerimientos funcionales y no
+[00:02:32] funcionales de aquí ustedes lo sacan. ¿Qué es funcional? ¿Qué es no funcional? Ahí solamente está uno de los dos pequeños.
+[00:02:40] Funcionales.
+[00:02:52] ¿Yutas de formato? No, de formato no.
+[00:02:56] ¿Qué responsabilidad tiene el intercursos humanos? ¿Proceso?
+[00:03:02] ¿Qué información del personal docente administra actualmente, cómo se mantiene actualizada, cómo se registra la modalidad de contratación de cada docente?
+[00:03:16] Pero hay esa pregunta de cómo se registra la modalidad de contratación, está muy, o sea, es parte de, pero al mismo tiempo no lo están estableciendo como pregunta del sistema.
+[00:03:28] Una vez contratado a un docente, ¿cómo usted carga, cómo informa a los coordinadores que tienen un nuevo profesor para que se darte a su orario?
+[00:03:37] ¿El docente genera orario? ¿Quién genera el orario?
+[00:03:43] Si me acachan, o sea, esas preguntas les están faltando, o sea, ustedes están viendo, como les digo, necesidad, pero no están viendo los requerimientos para la funcionalidad del sistema.
+[00:03:54] de comunicación. Recuerdos
+[00:03:59] humanos administra información
+[00:04:02] del personal docente, ya. Se
+[00:04:04] registra la modalidad de
+[00:04:05] contratación de cada docente ya.
+[00:04:07] Se verifica la hora asignada
+[00:04:09] correspondiendo. Y correspondan
+[00:04:12] a las condiciones de
+[00:04:16] contratación. Se comunica a
+[00:04:18] los coordinadores ya. Otra
+[00:04:20] pregunta. ¿En base a los
+[00:04:21] horarios generados por los
+[00:04:22] ¿Cuántas horas mínimas debe de cumplir un docente?
+[00:04:28] ¿Todos requieren laboratorios? Porque, yo que sepa, ahí los horarios sí les sirven
+[00:04:35] para poder calcular y tener un orden, obviamente, pero ¿y la parte de laboratorios?
+[00:04:40] Tal vez en la carrera de administración necesita Justo.
+[00:04:52] A ver...
+[00:05:22] ¿Se comunican los coordinadores disponibles de restricciones de los docentes?
+[00:05:31] No me sorprendo si no entiendo.
+[00:05:37] ¿Se comunican los coordinadores las disponibilidad o las restricciones de los docentes?
+[00:05:43] ¿Eso fue en el chat? ¿Deía?
+[00:05:51] nuevamente chicos no cometen el error de estar generando las preguntas con IA pero que ustedes
+[00:06:01] mismos no revisen no ponen ahí su lógica de lo que ustedes están haciendo aquí estas preguntas
+[00:06:08] son de recursos humanos pero yo no veo nada del sistema
+[00:06:14] y es porque justamente piden a la IA y la IA claro les está generando así
+[00:06:18] está mal eso y además no es por nada de los formatos que me han mostrado ahorita, muy pocas preguntas, yo creo
+[00:06:26] muy pocas, ustedes tienen el sistema, ya saben por donde funciona el sistema, ya saben ustedes más o menos cuál es
+[00:06:34] la necesidad, simplemente están contemplando, combinando su conocimiento junto con el proceso que maneja cada uno
+[00:06:45] de los docentes aquí. El coordinador que hace, el profesor que hace. El profesor solamente necesita
+[00:06:53] un lugar donde pueda visualizar su horario nada más. ¿Para qué va a necesitar un sistema?
+[00:07:00] Aquí el profesor no ingresa. Esto es más para la gestión de orales. De tal forma que cada coordinador
+[00:07:07] imprima o descargue un PDF para que pueda publicar en el Mulde como ustedes lo ven o publicar aquí
+[00:07:14] y justamente afuera, como ustedes ya han observado.
+[00:07:19] Así que las preguntas hay de tanto, profe, profe, profe.
+[00:07:22] Algunas son, otras no.
+[00:07:25] Recuerdos humanos intervienen en la revisión de los horarios
+[00:07:27] académicos, claro.
+[00:07:28] ¿Para qué?
+[00:07:30] Esa pregunta no tiene que ser cerrada.
+[00:07:34] ¿Por qué? ¿Cómo?
+[00:07:35] ¿Pero cómo hace el cálculo?
+[00:07:36] Ah, listo.
+[00:07:37] Entonces, el sistema, ¿usted quiere que les dé calculando
+[00:07:40] porque ya tiene ahí el horario?
+[00:07:41] ¿O quiere solamente para que sea un horario?
+[00:07:43] el que va a decir no, mejor si me hará calculando, yo solamente puedo poner si tal vez el docente
+[00:07:49] no vino un día que le descuente o si tal vez el docente no dio clases todo un día
+[00:07:53] para que se le descuente, él les va a dar hasta más requerimientos que actualmente
+[00:07:57] su sistema no tiene, y ustedes ven ahí donde van a purificar, comentarios, bueno eso sí
+[00:08:06] ¿está bien? ¿ya?
+[00:08:28] ¿cómo se realiza la planificaci... ah, para quién es este?
+[00:08:30] para conozco
+[00:08:32] ¿cómo se realiza la planificación y elaboración de los agrarias en su área,
+[00:08:36] las escuelas. Ustedes ya saben que aquí es la escuela.
+[00:08:40] ¿Qué información necesita para comenzar a elaborar horarios y quién se los proporciona?
+[00:08:49] ¿Cómo coordinar con los responsables de otras escuelas la asignación?
+[00:08:53] ¿Cómo solicitar laboratorios? ¿Qué situación provoca modificaciones en los horarios?
+[00:09:01] Una vez conformado su horario, ¿a quién le entrega el horario para que sea aprobado?
+[00:09:07] Ahí no hay nada de aprobación, los horarios también se aprueban.
+[00:09:17] ¿Utiliza herramientas digitales para organizar los horarios?
+[00:09:20] Su avi... su... de escuela, ven chuta.
+[00:09:24] a ver, comparten, comparten centros. Ya, eso sí. Su aria necesita utilizar laboratorios para
+[00:09:33] asignaturas, ha tenido dificultades por coincidencias con los horarios específicos de relaciones
+[00:09:39] o correcciones de dirección académicas sobre los horarios. Ya. Otra pregunta, ¿cuánto
+[00:09:48] tiempo le toma actualmente levantar un horario luego de ser corregido también luego de ser aprobado
+[00:09:57] si él les dice dos semanas entonces ahí parten con la pregunta del sistema que pasa si nosotros
+[00:10:04] le facilitamos con un sistema que reduce esas dos semanas a un día le gustaría si ven es ahí donde
+[00:10:11] ustedes van a vender su producto porque si ustedes me entregan todas estas entrevistas y hacen
+[00:10:16] justamente el análisis, ustedes me van a poner que se va a incrementar, pero cuando yo recibo
+[00:10:22] estas preguntas y yo leo su informe con lo que ellos están contestando, yo les voy a decir en
+[00:10:27] ningún lado ellos dicen que necesitan un sistema, así que se cancela. Ustedes tienen que ya vender,
+[00:10:33] porque si no venden, ¿qué sistema se va a levantar?
+[00:10:39] Ya, eso.
+[00:10:41] Al corregir.

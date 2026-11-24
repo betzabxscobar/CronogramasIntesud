@@ -1,0 +1,162 @@
+Transcripción automática del audio "Entrevista a Recursos Humanos - audio.mp4"
+Entrevistado: Mtr. Juan José Flores, Recursos Humanos
+Herramienta: Whisper (modelo medium), ejecutado en el equipo, sin enviar el audio a internet.
+Algunas palabras pueden estar mal reconocidas; el informe de la entrevista corrige los nombres y los datos.
+
+Bueno, buenos días. Primero, vamos a hacerle una entrevista sobre el proyecto de gestión
+de laboratorios Cronin TESU. ¿Nos da el permiso de grabarlo?
+Claro que sí, con todo gusto.
+Empezamos con las preguntas de ayer.
+¿Qué responsabilidades tiene Recursos Humanos en la planificación de los horarios académicos?
+Recursos Humanos es el eje central de la distribución de horarios, tanto de personal académico,
+administrativo, operario, que necesito yo conocer cómo están distribuidos sus horarios para conocer
+también sus funciones. Todo parte de los horarios, ocho horas a ocho horas diarias, 40 a la semana,
+pero sí necesito yo poder evidenciar que se cumplan estos horarios. Obviamente cada cargo demanda
+responsabilidad, puntualidad y sobre todo el desempeño eficiente de sus funciones, entonces
+a mí la parte principal del horario me permite verificar que se esté cumpliendo con la planificación
+del departamento financiero, de dirección académica, de cualquier departamento de
+acuerdo a los horarios establecidos, porque siempre debemos cumplir horarios, cumplir
+tiempos para que no existan retrasos ni reprocesos.
+¿Qué información del personal docente administra actualmente?
+Todo, hojas de vida, títulos académicos, igual el tema de los horarios son de ellos,
+cuando por algún motivo el docente falta, pues tiene que justificar a través de un certificado
+médico o cualquier tipo de certificado que avale, que no puede estar de manera presencial
+en la institución. Entonces, ahora tenemos la ley de protección de datos. Sí, me entregan
+a mí como talento humano, como director del área, pero es totalmente cotidencial. Pero
+eso también me ayuda a mí a saber, por ejemplo, que no hay nada del profesor porque está
+enfermo. Entonces, qué poder hacer o qué acciones tomar.
+¿Cómo mantiene actualizado esa información?
+A ver, nosotros lo hacemos de manera administrativa, tenemos un horario establecido, de 8 a 18.45,
+con los profes cada semestre, de acuerdo a la necesidad, por ejemplo, se habla el primero,
+segundo y tercer semestre, cómo van a ser los horarios de clase, que lo conversamos
+con cada coordinador, los coordinadores planifican y organizan sus horas de clase, y de acuerdo
+a eso hacemos los horarios, yo que sé que el profesor va a venir el lunes de 8 a 10,
+martes de 8 a 2, el miércoles de 8 a 2 depende a la carga horaria de las
+asignaturas que se le hayan puesto. Una vez contratado un docente, ¿cómo
+informan los coordinadores que tienen un nuevo profesor para que le asigne el
+horario? Es el proceso de inducción, que es el proceso de inducción de la primera
+capacitación que recibe la persona de nuevo ingreso, entonces se hace esta
+sociabilización donde tiene que conocer a quién va a ser en este caso, por si
+decirlo, el jefe directo o el coordinador del área para que pueda contar con su
+nuevo, con este nuevo elemento, con este nuevo recurso humano que va a aportar a
+su, a la carrera como tal, entonces siempre primordial la comunicación y
+sobre todo no dejar de lado que si ingresa alguien no hacer todo el recorrido
+para que también ya se vaya familiarizando con su trabajo.
+¿Cuántas horas mínimas debe cumplir un docente de tiempo completo?
+Tiempo completo 40 horas, sí, tiempo parcialmente.
+¿Para qué intervienen recursos humanos en la revisión de horarios?
+¿Para qué intervienen recursos humanos en la revisión de horarios?
+¿Para qué intervengo?
+Para, primero, cumplimiento, cumplimiento estratégico de funciones, de obligaciones, de actividades de acuerdo a su manual.
+Segundo, evidenciar de que el trabajador está aquí porque yo como instituto pago un suelo
+para que la persona esté trabajando de manera presencial aquí.
+Entonces, eso me permite a mí verificar cómo están los horarios distribuidos.
+Cuando tiene clase, cuando son horas administrativas, cuando son horas de investigación, me invento.
+Y con eso yo puedo generar un control y un seguimiento de X o Y profesor.
+¿Cómo calculan las horas de cada docente a partir de los horarios?
+No entiendo esa pregunta. ¿Cómo se calcula? A ver, vuelve a repetir para ver si...
+¿Cómo calculan las horas de cada docente a partir de los horarios?
+O sea, depende del horario que está establecido, ya se predetermina. Como te decía, tiempo
+parcial no puedo pasarme de 20 horas. O sea, un profesor tiempo parcial, los profesores
+que solo están por horas, tienen que cumplir un máximo de 20 horas a la semana. Entonces,
+el horario que me ayuda a verificar que no me sobrepase de este límite, porque si yo
+me puedo sobrepasar las 20 horas semanales, ya puede considerarse como un medio tiempo,
+que es otra modalidad de contrato. Entonces, el medio tiempo sí puedo sobrepasarme de
+las 20 horas y el tiempo completo que son las 40 horas semanales entonces el
+horario para mí es crucial para saber cómo están distribuidos las horas y
+realizar ajustes de ser el caso. ¿Qué procedimientos se sigue cuando un docente
+ingresa o sale o cambia sus condiciones durante el periodo?
+A ver cuando un docente ingresa primero se hace todo el proceso de
+reclutamiento y selección de personal en el cual cuando es docente llevamos a
+a cabo una entrevista y una clase demostrativa. Pasamos todos los filtros, nosotros contratamos
+a la persona, identificamos horario, identificamos la modalidad contractual, los valores a cancelar
+y iniciamos con la inducción, o sea con esta integración ya a su carrera. Cuando sale
+el docente, a veces es difícil porque hemos tenido docentes de tiempo parcial que no tienen
+una relación directa con nosotros que de un día al otro me dicen "me voy" y ahí es
+cuando nos ponen a correr a nosotros como administrativos porque tenemos que
+buscar un reemplazo a ese docente, entonces claro es esta particularidad de
+que el tiempo parcial no tiene una condición directa, una relación directa
+con el empleador, entonces a veces sí nos ha pasado que me dicen me voy y ese
+rato nos toca buscar, pero ¿qué se requiere o qué se ha hecho últimamente tener
+un backup de elegir? Carpetas de que por algo emotivo alguien se me vaya y yo
+tengo un reemplazo enseguida. ¿Cómo se registran los descuentos cuando un docente no asiste
+a clases? Cuando un docente no asiste a clases no se paga la hora de clase, aquí nosotros
+pagamos por hora, la hora de clase tiene x o y valor, les puedo decir que la hora de
+clase está creo que en 7 u 8 dólares más o menos, entonces claro si se evidencia que
+no está, no pago esa hora, pero ya me queda a mí también este tema de incumplimiento,
+que si se sigue pasando, sigue incumpliendo, yo ya debo tomar otras medidas, buscar otro
+profesor, porque no puede ser que no cumples horario.
+¿Cuánto tiempo le toma revisar la carga horaria de todos los docentes en un periodo?
+Si me demoro, al menos una semana, porque si tiene que hacer reajustes de que no, mira
+aquí ya se me cruzan, ya los laboratorios están ocupados, no en este curso no se abrió,
+aquí se choca, entonces sí es riguroso el trabajo que hace recursos humanos con dirección
+académica y coordinadores, porque es un trabajo a ver, tengo tantos docentes, tengo tantas
+materias y se abren tantos cursos, e ir intercalando para que no se choquen y los docentes también
+van a dar sus horas clases. ¿Se registra la modalidad del contrato en cada docente? De
+manera física, o sea, hacemos un contrato por servicios profesionales para los tiempos
+parcial y bueno los profesores tiempo completo ya pertenecen a la plantín de
+sus bajo nomes, entonces ya tienen un contrato desde que ingresaron y para los
+tiempos parcial se va renovando cada vez que se acaba el semestre, en este
+semestre el actual se termina en marzo, entonces el contrato del profesor está desde
+octubre a marzo 2027 y después si renovamos con un profesor hacemos otro
+contrato de marzo a no se me inventa noviembre que será el siguiente
+semestre. ¿Cómo se comunican los coordinadores la
+disponibilidad o las restricciones de los docentes?
+De acuerdo, también a mí me sirve mucho la evaluación que ustedes como estudiantes
+hacen a los profesores, la evaluación docente, cuando un profesor es bueno, cuando un profesor
+es eficiente, cuando sabe llegar a los estudiantes, cuando tiene buena metodología, pues podemos
+continuar con la evaluación, pero no ha habido casos en que un docente si falta, no tiene
+buena metodología, no tiene esta conexión con los chicos, entonces como que no, sigan
+el semestre y cambien un nuevo docente.
+¿Con qué frecuencia cambian las condiciones laborales de los docentes durante un periodo?
+La verdad se han mantenido, no se han cambiado, como ahora me repito, tenemos tiempo parcial,
+medio tiempo y tiempo completo, que son las tres condiciones, no se han cambiado.
+Antes de seguir con las preguntas, hablamos de explicar sobre el sistema que se propuesta.
+Claro que sí.
+¿Considera que el sistema donde se vea la carga horaria de cada docente en todas las escuelas le facilitaría el trabajo?
+Sí, pero yo a este sistema que ustedes piensan crear le aumentaría que puede evidenciar que el docente está ahí.
+Ya supongamos, yo sé que el lunes de ocho a diez está en el aula uno de invento. Perfecto.
+Y yo me temía al sistema y saber que el docente está ahí. ¿Cómo se hace actualmente?
+Yo tengo que hacer una búsqueda, o sea, un trabajo de campo y me habla por aula para saber si está el docente.
+Entonces sí es un poquito artesanal todavía los procesos aquí, pero si los vamos a automatizar,
+no sé si sería la creación de una aplicación para que el docente se mire esto ya en "inicie clases en el aula tal",
+entonces, y eso se refleja en el horario también.
+Y también la revisión de los horarios me permite a mí identificar cómo está la carga laboral.
+¿Si el sistema redujiera el tiempo de revisión de la carga horaria que nos indicó, lo utilizaría o que espera del sistema?
+Optimización de recursos.
+Optimización de recursos, no es una semana sobre hacer horarios o a veces no encontrarle al profesor si es como que un poquito complicado porque no hay una digitalización.
+Todo es hecho de acuerdo a ver a lápiz o a esfero y hoja y cambia, no, este cambia.
+Entonces, ya con un sistema, creería yo, se puede automatizar este tipo de recursos
+que me da, va a brindar mayor facilidad y mucha más viabilidad, que tenga mucha más
+certeza de estos orajes.
+¿Cree que este sistema sería uno más de los que ya existen y si no, si lo utilizaría?
+Debería tener un plus diferenciador, ¿cuál va a ser el plus diferenciador de su proyecto?
+¿Por qué me va a beneficiar a mí?
+a reducir tiempos, vamos a determinar realmente que el profesor está cumpliendo con sus
+horarios, entonces eso sí a mí me impactaría, porque a mí, si solo es un sistema que yo
+es como donde yo voy a registrar los horarios y no me da más información, o sea, como
+que no me ayuda mucho, o sea, ¿qué más podemos hacer con este sistema?
+¿Le gustaría que el sistema calcula automáticamente las horas de cada docente a partir de su horario?
+Le gustaría registrar en el sistema las docencias de los docentes para que se descuente el cálculo.
+Sí, y al final sí, hacer una revisión porque el pago es mensual.
+Entonces, a ver, el docente, Pepito, ¿cuántas horas trabajó en el mes?
+Una se enfermó, pero esa no le pagó.
+¿Le gustaría que el sistema avise cuando un docente supera las horas de su contrato?
+Sí, sería como un aviso, como una atención.
+¿Le gustaría registrar en el sistema el ingreso o la salida de un docente para que
+los coordinadores reciban un aviso?
+Totalmente podríamos manejar este sistema de manera mancomunada entre todas las áreas.
+¿Qué reportes de horas les sería útil?
+Horas por docente, horas por escuela, docentes que superan su carga, ausencias y descuentas.
+Ambas, o las tres partes, sí, porque necesito saber, por docente, ¿cuánto debo pagar
+de manera individual, de hacer una comparativa de cuántos docentes tengan X carrera a diferencia
+de otros, para saber al final si necesito contratar más profesores o no, y también
+el tema de los descuentos, si un profesor faltó, cuando son tiempos parciales yo no
+pago esa obra.
+¿Cómo preferiría ingresar al sistema?
+Por cuenta institucional, número y contraseña, ¿número de cédula y contraseña o log-in?
+Creo que por la institucional, porque puede ser que alguna vez yo salga de este puesto
+y la información también se vaya conmigo, entonces si está institucional, si ya es
+parte de aquí, debería quedarse solo ahí.
+Eso sería todo.
+Gracias chicos, no se preocupen con todo el gusto, que les vaya bien con su proyecto.

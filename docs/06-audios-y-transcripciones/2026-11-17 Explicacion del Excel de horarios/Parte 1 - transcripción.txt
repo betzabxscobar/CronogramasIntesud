@@ -1,0 +1,21 @@
+Transcripción automática del audio "Parte 1 - audio.ogg"
+Herramienta: Whisper (modelo medium), ejecutado en el equipo, sin enviar el audio a internet.
+El audio tiene ruido de fondo: algunas frases pueden estar mal reconocidas. Los tramos sin voz se omitieron.
+
+[00:00:00] que tienen que hacer primero.
+[00:00:06] Ya, mis profesores las hablan
+[00:00:10] y venan.
+[00:00:12] Esto es un archivo modelo de
+[00:00:14] horarios, es una gris.
+[00:00:16] Pero igual nunca pudieron, así
+[00:00:18] que me preocupé a mí mismo.
+[00:00:20] Ya, aquí estoy mostrando sólo
+[00:00:22] desarrollo de sobra.
+[00:00:24] Si estamos...
+[00:00:26] Ah, que les tengo miedo.
+[00:00:28] ¿Cómo estás?
+[00:00:33] Hola, ¿cómo estás?
+[00:00:36] Por favor, soplé.
+[00:00:37] Ya.
+[00:00:38] Evitame...
+[00:00:39] Entonces...

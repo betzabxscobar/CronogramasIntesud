@@ -1,0 +1,75 @@
+Transcripción automática del audio "Entrevista a Administracion - audio.mp4"
+Entrevistada: Ing. Evelin Mora, coordinadora de la Escuela de Administración
+Herramienta: Whisper (modelo medium), ejecutado en el equipo, sin enviar el audio a internet.
+Algunas palabras pueden estar mal reconocidas; el informe de la entrevista corrige los nombres y los datos.
+
+Hoy 19 de noviembre le salió una entrevista. ¿Si me permite grabarle?
+Sí, no hay problema.
+¿Cómo se realiza la planificación y la elaboración de horarios en su escuela?
+¿Y ahora cómo te explicaré? Porque la verdad yo soy nueva, soy nueva coordinadora.
+Entonces, lo que tendríamos que hacer es primero identificar los PEAs en qué niveles están los estudiantes.
+Si tenemos cursos abiertos, de primero a segundo, tercero o cuarto, y con eso pues empezamos a platicar.
+¿Qué información necesita para comenzar a elaborar los datos?
+Primero los PEAs, los números de matriculados por aula.
+¿Qué más? Información en el ámbito de los reglamentos, cuántos estudiantes hay en la capacidad de planificación,
+los horarios que sean, si son estudiantes nocturnos, vespertinos, diurnos.
+¿Quién le proporciona la información?
+Dirección académica y la coordinación. Nosotros tenemos un proyecto de carrera que es un cuadernilla.
+¿Cómo coordina con los coordinadores de las otras escuelas y las asignaturas con los docentes que trabajan en la universidad?
+En este caso tenemos que identificar cuál es la asignatura y cuáles son los títulos que tiene cada uno de los docentes para nosotros poder realizar este compartimiento de los docentes.
+¿Cómo solicita los laboratorios que necesita su escuela?
+en la escuela las prácticas que tenemos, prácticas técnicas,
+y con esas prácticas se solicitan, en este caso como es la administración,
+el laboratorio de documentación.
+¿Cómo conoce la disponibilidad de los laboratorios?
+Existe una matriz en la cual se estructuran los laboratorios,
+hablas que hay disponibles aquí en el instituto y los horarios de disponibilidad.
+¿Qué situaciones provocan modificaciones en los horarios?
+Cuando los estudiantes tienen alguna práctica adicional o quieren darles alguna explicación extra o curricular.
+¿Cómo se comunica con los cambios de los docentes?
+Mediante correo.
+¿Cuánto tiempo le toma elaborar un horario completo?
+No he elaborado aquí, pero más o menos hace unas dos horas o tres horas, dependiendo de las paralelos y asignaturas.
+¿Cuánto tiempo le toma corregir un horario después de recibir las observaciones?
+Igualmente, hace unas dos horas.
+¿Utiliza alguna herramienta digital para los horarios?
+En este caso, el OneDrive. Dentro del OneDrive está el Excel, el Android.
+¿Su escuela comparte recetas con otras escuelas?
+Sí, la docente Mabel, bueno, metodología de la investigación y el área del docente Aguirre.
+Dos personas, bueno, algunos, otros dan informática y eso, informática.
+¿Si escuela necesita laboratorios para hacer la asignatura?
+Sí.
+¿Ha tenido dificultades por coincidencias de horarios?
+No, los horarios están incumplidos.
+¿Con qué frecuencia recibo observaciones de dirección académica sobre sus horarios?
+No hay que tener ninguna observación porque ya están determinados
+y ya está planificado desde un inicio de clases.
+Le comento que el sistema se llama Chronointesu.
+Entonces le voy a realizar unas preguntas de cómo está ahorita el sistema.
+Chronointesu.
+Si el sistema redujiera el tiempo de elaborar su horario, de lo que nos indico, solo en un día, ¿le gustaría utilizarlo, y por qué?
+Sí, porque me ahorraría el tiempo, sería más flexible y sería un programa que ayudaría a reducir cualquier error que se comete como ser humano.
+¿Qué funciones debería tener disponibles el coordinador de cada carrera dentro del sistema?
+¿Qué funciones? El de planificación, seguimiento y control.
+¿Qué tipos de conflictos debería identificar automáticamente el sistema?
+Conflictos en cruce de horarios, en hablas que están compartidas, para evitar esos errores.
+¿Cómo debería notificar el sistema cuando detecte un conflicto?
+un correo o una letra dentro del sistema antes de iniciar.
+¿Cree que este sistema sería uno más de los que existen o sí se utilizaría?
+No sí se utilizaría, porque no existe un sistema para planificación académica.
+¿Le gustaría que el sistema le avise inmediatamente si un docente o un laboratorio ya está ocupado por otra escuela?
+Sí.
+¿Le gustaría copiar y pegar las clases dentro de los horarios?
+¿Te gustaría enviar el horario a aprobaciones desde el sistema y de ahí recibir las observaciones?
+¿Te gustaría descargar el horario en pdf por nivel y por docente para publicar en la plataforma virtual o en las carteleras?
+Sí, eso sería muy bueno.
+¿Te gustaría ver los horarios de las demás escuelas?
+Puede para que no exista un conflicto ahí de horarios, pero no me interesaría otras carreras
+porque tendríamos que, cada una de las carreras tiene su forma de las clases o cárcel.
+¿Cómo le gustaría consultar los horarios? ¿Por carrera, por curso nivel, por docente, por auga o por laboratorio?
+Por carrera, luego por curso nivel.
+¿Cómo preferiría ingresar al sistema? ¿Cuenta institucional, número de cédula y contraseña o un logic?
+En cuenta institucional.
+¿Desde qué dispositivo usaría el sistema? ¿Computadora, celular o ambos?
+Amos, celular y computadora.
+Eso sería todo muy bien.

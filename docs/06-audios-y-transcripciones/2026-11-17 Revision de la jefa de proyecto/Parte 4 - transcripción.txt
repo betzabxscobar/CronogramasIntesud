@@ -1,0 +1,9 @@
+Transcripción automática del audio "Parte 4 - audio.ogg"
+Herramienta: Whisper (modelo medium), ejecutado en el equipo, sin enviar el audio a internet.
+El audio tiene ruido de fondo: algunas frases pueden estar mal reconocidas. Los tramos sin voz se omitieron.
+
+[00:00:28] A ver, confirmar con el usuario principal las decisiones necesarias para cerrar los requerimientos de Frente Sud.
+[00:00:36] ¿Cómo debe seleccionar el sistema ante un choque? ¿Cómo se aprueba el firma del librario?
+[00:00:44] ¿Qué permisos tienen las autoridades? ¿Y qué debe de cumplir la segunda revisión para ser seleccionado?
+[00:00:52] Con esas decisiones es muy fácil de definir, además, a más de datos que el sistema debe de valer.
+[00:00:58] No es tan malo, no, igual me trago a leer, no es una lectura jurídica, eso tiene que prohibir bastante.

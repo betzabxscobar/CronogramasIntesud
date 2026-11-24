@@ -1,0 +1,42 @@
+Transcripción automática del audio "Parte 1 - audio.ogg"
+Herramienta: Whisper (modelo medium), ejecutado en el equipo, sin enviar el audio a internet.
+El audio tiene ruido de fondo: algunas frases pueden estar mal reconocidas. Los tramos sin voz se omitieron.
+
+[00:00:00] No es muy intenso. Ahí sí ya me pusieron sistema web de elaboración, gestión de horarios y vuelvo.
+[00:00:07] No gestiona solo horarios, gestiona horarios y laboratorios. Son dos cosas diferentes.
+[00:00:15] Bájale.
+[00:00:18] [INGLÉS]
+[00:00:25] Asignaturas, gestión de proyectos,
+[00:00:28] gestión de proyectos de software, análisis y diseño.
+[00:00:32] Ya.
+[00:00:33] Recuerda, no estás construyendo o no están construyendo un
+[00:00:38] sistema para las materias.
+[00:00:41] Sí, se caligniven las actividades,
+[00:00:43] se la están creando, una simulación de un trabajo,
+[00:00:46] una simulación en donde yo soy su jefe,
+[00:00:50] nosotros pertenecemos por lógica a la empresa Intesud.
+[00:00:54] ¿No es cierto?
+[00:00:55] Así que eso es tan malo.
+[00:00:57] ¿Cuál es el ciclo de vida?
+[00:00:58] Si está bien, planificación, nada del concepto.
+[00:01:02] Planificación.
+[00:01:03] Las cosas por su nombre.
+[00:01:05] Porque la IA me lanza esas cosas y eso está bien.
+[00:01:08] integrantes del equipo en orden alfabet, entonces escobar,
+[00:01:15] renarche, eso está bien.
+[00:01:19] Pero yo les veo así, yo no sé si son señores, señoras,
+[00:01:23] o señoritos, yo no sé nada.
+[00:01:26] Ustedes, ¿qué son ahorita?
+[00:01:29] Señores o señores, cuando ustedes egresen,
+[00:01:32] son tecnólogos entre paréntesis E, es decir,
+[00:01:36] tecnólogos egresados.
+[00:01:38] Cuando ustedes ya tienen su título, son tecnólogos.
+[00:01:42] Si estamos-- Así que la señorita Escobar.
+[00:01:46] A mí me dice que se utilizaba, no sabemos que le lleguen,
+[00:01:49] ¿cierto?
+[00:01:50] La señorita El Macho y el señor Zurita.
+[00:01:55] Estamos, eso nunca puede ser.
+[00:01:57] Docente Alfín.
+[00:02:00] Entrevistado ya.
+[00:02:02] Lugar y fecha, quito, noviembre.
+[00:02:05] Pero qué, 16, 15, 14, entre 12 y 10. Ya no. Ya.
